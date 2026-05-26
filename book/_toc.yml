@@ -4,12 +4,12 @@ format: jb-book
 root: about
 title: Introduction
 parts:
-  - caption: Part 1: Introduction to GenAI
+  - caption: Part 1 Introduction to GenAI
     chapters:
       - file: part1/what-is-genai
       - file: part1/prompts
       - file: part1/evaluating-output
-  - caption: Part 2: AI Tools for Literature Review
+  - caption: Part 2 AI Tools for Literature Review
     chapters:
       - file: part2/1-introduction-ai-tools
       - file: part2/2-explore

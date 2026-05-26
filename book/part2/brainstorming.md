@@ -1,6 +1,6 @@
 # Brainstorming on Your Topic
 
-When you are just getting started with your research project, you might be in need of a general explanation of a topic. After all, you first need to decide on what exactly you want to research. In order to do so, you have to gather some interesting possible research directions.
+When you are just getting started with your research project, you might be in need of a general explanation of your topic. After all, you first need to decide on what exactly you want to research. In order to do so, you have to gather some interesting possible research directions.
 
 ::::{grid}
 :gutter: 1

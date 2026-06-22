@@ -2,11 +2,11 @@
 
 ## Generative AI Explained
 
-Before you learn how you can use GenAI tools to assist you in the literature research and writing process, it is important to have a basic understanding of how GenAI works. GenAI is short for generative artificial intelligence and, to put it very simply, refers to computer systems that execute tasks that are typically performed by humans as they require human intelligence, and by doing so create new content.
+Before you learn how you can use GenAI tools to assist you in the literature research and writing process, it is important to have a basic understanding of how GenAI works. GenAI, short for generative artificial intelligence, refers to computer systems that perform tasks that typically require human intelligence and generate new, human-like content such as text, images or videos.
 
-An important principle of GenAI is that it doesn’t understand what it is doing. Rather, it generates information based on input from a user and a set of rules. An explanation that is often used is John Searle’s Chinese Room Experiment. Watch <a href="https://www.youtube.com/watch?v=8NUd1FX9dYs" target="_blank">this video</a> to learn about this thought experiment.
+An important principle of GenAI is that it doesn’t understand what it is doing. Rather, it generates information based on input from a user and a set of rules. This concept is often explained through John Searle’s Chinese Room Experiment. Watch <a href="https://www.youtube.com/watch?v=8NUd1FX9dYs" target="_blank">this video</a> to learn about this thought experiment.
 
-In this analogy, the question written by the person outside the room is the prompt you write, the room is the GenAI tool you use, the book with instructions are the rules that the tool uses, and the response from the person inside the room is the GenAI output.
+In this analogy, the question written by the person outside the room is your prompt, the room is the GenAI tool, the book with instructions are the rules that the tool uses, and the response from the person inside the room is the GenAI output.
 
 About the rules: a lot of the GenAI tools that are currently thriving make use of Large Language Models (LLMs) that work based on word prediction. Watch the video below to learn more about how LLMs use word prediction to generate output.
 
@@ -14,7 +14,7 @@ About the rules: a lot of the GenAI tools that are currently thriving make use o
 "How Do Large Language Models Work?" by ILLC Science is licensed CC-BY.<br><br>
 
 
-Different GenAI tools make use of different LLMs. For example, ChatGPT as of 2025 uses GPT-5. Since ChatGPT emerged in 2022 other LLMs have emerged, for example Claude-3.5 and Gemini-1.5-Pro.
+Different GenAI tools make use of different LLMs. For example, ChatGPT as of 2026 uses GPT-5.5. Since ChatGPT emerged in 2022 other LLMs have emerged, for example Claude-3.5 and Gemini-1.5-Pro.
 
 ![Timeline of GPT-models](part1-timeline-ai-models.png)<br>
 <a href="https://libguides.hkust.edu.hk/ld.php?content_id=52124893" target="_blank">Timeline of GPT-models</a> by Aster Zhao is licensed CC-BY-NC-SA from Hong Kong University of Science and Technology.

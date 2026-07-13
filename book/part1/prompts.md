@@ -29,6 +29,6 @@ Effective use of GenAI tools is (often) an iterative process: it doesn’t stop 
 
 ## References
 
-- Jacobs, M. (2025). _GenAI in Education_ [Interactive Book]. Retrieved August 19, 2025, from <a href="https://www.genaieducationbook.online/intro.html" target="_blank">https://www.genaieducationbook.online/intro.html</a>
+- Jacobs, M. (2025). _GenAI in Education_ [Interactive Book]. Retrieved August 19, 2025, from <a href="https://www.genaieducationbook.online/welcome.html" target="_blank">https://www.genaieducationbook.online/welcome.html</a>
 - Last, B., & Sprakel, T. (2024). _Chatten met Napoleon: Werken met generatieve AI in het onderwijs_ (2nd edition). Boom.
 - Su, J. (2023, 1 August). _Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=jC4v5AS4RIM" target="_blank">https://www.youtube.com/watch?v=jC4v5AS4RIM</a>

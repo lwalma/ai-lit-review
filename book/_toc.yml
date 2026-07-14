@@ -14,7 +14,7 @@ parts:
       - file: part2/1-introduction-ai-tools
       - file: part2/2-explore
         sections:
-          - file: part2/2a-brainstorming
+          - file: part2/2a-general-orientation
           - file: part2/2b-exploring-literature
           - file: part2/2c-develop-question
       - file: part2/3-search

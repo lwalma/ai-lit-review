@@ -1,4 +1,4 @@
-# Brainstorming on Your Topic
+# General Orientation on Your Topic
 
 When you are just getting started with your research project, you might be in need of a general explanation of your topic. After all, you first need to decide on what exactly you want to research. In order to do so, you have to gather some interesting possible research directions.
 
@@ -16,27 +16,28 @@ Search general information around your topic and create a concept map
 :gutter: 1
 
 :::{grid-item-card} AI Assist<br>
-[General AI Searches on Your Topic](#ai-assist-general-searches-on-your-topic)<br>
-Use AI tools to find additional general information
+[General Searches and Exploring Research Directions](#ai-assist-general-searches-and-exploring-research-directions)<br>
+Use AI tools to find additional general information and explore possible research directions
 :::
 
 ::::
 
 ## Recap Standard Practice: Searching General Databases
 
-Common resources to start your brainstorming process include:
+Common resources to start your orientation process include:
 - Wikipedia
 - Google
 - Nexis Uni for newspaper articles
 
-You can also write down any interesting terms or particular topics in a concept map.
-For more information read this <a href="https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan#c989319" target="_blank">TUlib page</a>
+At this stage, you are not yet in need of very specific research papers. You just want to get a more general idea of a potential research topic. To organise your orientation process, you can write down any interesting terms or particular topics in a concept map. For more information about this, read this <a href="https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan#c989319" target="_blank">TUlib page</a>.
 
-## AI Assist: General Searches on Your Topic
+## AI Assist: General Searches and Exploring Research Directions
 
-AI can assist you: You can ask a general AI tool a question to get a feel for your topic. Use it in the same way you would use Google or Wikipedia. You can use the same question in multiple AI tools to see what they have to say and how they compare. 
+In addition to searching general databases, you can ask a general AI tool questions to get a feel for your topic. Use it in the same way you would use Google or Wikipedia to ask general questions or specifically ask the tool for possible research directions. There are different GenAI tools that can be used for this goal, such as Copilot, ChatGPT and Claude. It can be helpful to use at least two tools to do a general search, so you can compare the information and potentially also get some different directions to look into. This general orientation will not give you an instant research question, but it may help you to an idea of what direction(s) you want to further explore (or which directions you don't want to explore).
 
-There are different AI tools that can be used for this goal: When you use general AI tools in this manner, it is good to note whether a tool is connected to the internet. Models that are not connected to internet may hallucinate.  It can be helpful to use at least two models to do a general search so you can compare the information and potentially also get some different directions to look into. 
+```{warning}
+GenAI tools have no understanding of truth. The output may contain inaccuracies ('hallucinations'). Always check if the output is correct. GenAI tools also have no understanding of relevant research topics. Always critically assess if a suggestion is valuable and worthwile to proceed.
+```
 
 ```{admonition} Example Prompt
 :class: dropdown note
@@ -92,9 +93,9 @@ _You are a [x year] student in [study]. You have to write a literature review pa
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Find background information & brainstorm | Search Google and Wikipedia for background articles on a topic | Ask general chatbots for background information ans suggestions | General tools, e.g. Copilot, ChatGPT, Gemini, Claude, Perplexity | You are a [x year] student in [study]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list. |
-| | | | | Use the above prompt, but add some context to your LLM of choice (links / descriptions of the field) |
-| | | | | Use the deep research features of tools to look for sources more extensively |
+| Find background information and gather possible research directions | Search Google and Wikipedia for background articles on a topic | Ask general AI tools for background information and suggestions | General tools, e.g. Copilot, ChatGPT, Gemini, Claude, Perplexity | You are a [x year] student in [study]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list. |
+| | | | | Use the above prompt, but add some context to your chosen GenAI tool(s) (e.g., descriptions of the field) |
+| | | | | Use the deep research features of tools to look for information more extensively |
 
 ## References
 

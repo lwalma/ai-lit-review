@@ -58,7 +58,7 @@ Present the suggestions as a numbered list.<br>
 
 As of February 2025 many of a lot of general AI tools have added the option to do more detailed research, called **deep research**. This process is often more time consuming, and for a simple brainstorm it can be enough to ask a question to a basic model, rather than asking for a detailed review, but this is something you can explore for yourself!
 
-```{admonition} Guided Activity: Explore General AI Tools for Brainstorming
+```{admonition} Guided Activity: Explore Topic with General AI Tools
 :class: dropdown tip
 
 Choose **two** of the following general AI tools:
@@ -78,7 +78,8 @@ _You are a [x year] student in [study]. You have to write a literature review pa
 - Which ideas seem relevant or surprising?
 
 **Step 3: Deep Dive** (if the tool allows this)
-Ask **one** of the tools:
+
+Choose **one** of the tools you selected and switch to **deep reasoning mode**. Use the same prompt as in step 1:
 
 _You are a [x year] student in [study]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list._
 

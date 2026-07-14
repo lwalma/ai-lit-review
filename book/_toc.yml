@@ -8,7 +8,7 @@ parts:
     chapters:
       - file: part1/what-is-genai
       - file: part1/prompts
-      - file: part1/evaluating-output
+      - file: part1/summary-part1
   - caption: AI Tools for Literature Review
     chapters:
       - file: part2/1-introduction-ai-tools

@@ -1,4 +1,4 @@
-# 2 Defining Your Topic and Research Questions
+# 2. Explore Your Topic and Define Your Research Questions
 
 At the start of your project, you may need to orientate yourself in your topic and find some initial overview articles to study in order to decide on the specific topic you will work on. You also have to develop your research question(s).
 
@@ -6,7 +6,7 @@ At the start of your project, you may need to orientate yourself in your topic a
 
 Common activities during this phase of the literature review include:
 
-- [Brainstorming on Your Topic](brainstorming.md)
+- [General Orientation on Your Topic](brainstorming.md)
 
 - [Exploring Academic Literature](exploring-literature.md)
 

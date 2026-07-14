@@ -24,8 +24,8 @@ Effective use of GenAI tools is (often) an iterative process: it doesn’t stop 
 1.	Specify what you like and don’t like about the output (e.g., the structure is good, but the tone should be more formal).
 2.	Ask for more variations.
 3.	Add additional background information.
-4.	Ask for explanation (especially when you ask the GenAI tool to improve text).
-5.	If you asked for multiple suggestions, select the suggestion you like most and specify what you want to do with it (and what you want to know from the GenAI tool ).
+4.	Ask for explanation (especially when you ask the GenAI tool to improve your text).
+5.	If you asked for multiple suggestions, select the suggestion you like most and specify what you want to do with it (and what you want to know from the GenAI tool).
 
 ## References
 

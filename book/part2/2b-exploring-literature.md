@@ -1,6 +1,6 @@
 # Exploring Academic Literature
 
-Once you've defined your topic a bit more and understand the basic concepts, it can be helpful to get an initial overview of the academic literature already written about your topic. This helps you to get a better understanding of the research field, and you can find out what research gaps still exist.
+Once you have defined your topic a bit more and understand the basic concepts, it can be helpful to get an initial overview of the academic literature already written about your topic. This helps you to get a better understanding of the research field and you can find out what research gaps still exist.
 
 ::::{grid}
 :gutter: 1
@@ -17,15 +17,14 @@ Perform broad searches in an academic databases
 
 :::{grid-item-card} AI Assist: <br>
 [Exploring Academic Literature with AI Research Tools](#ai-assist-exploring-academic-literature-with-ai-research-tools)<br>
-Use Academic AI tools to do an exploration of academic literature
+Use academic AI tools to do an exploration of academic literature
 :::
 
 ::::
 
 ## Recap Standard Practice: Topic-Level Searching
 
-What are some key directions already taken? A common approach is to do topic-level searches in academic databases like Scopus, Dimensions or Web of Science, or look specifically for review articles. Check the titles, abstracts and keywords of documents you find useful.
-It can be helpful to look for specific review articles around your topic.
+What are some key directions already taken? A common approach is to do topic-level searches in academic databases like <a href="https://www.scopus.com/" target="_blank">Scopus</a>, <a href="https://www.dimensions.ai/" target="_blank">Dimensions</a> or <a href="https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/" target="_blank">Web of Science</a>. Check the titles, abstracts and keywords of documents you find useful. In addition, it can be helpful to look for specific review articles around your topic.
 
 ```{admonition} Expert Software for Exploring Scientific Literature
 :class: dropdown tip
@@ -36,7 +35,7 @@ Do you want to do a more detailed mapping of academic literature? You could use 
 
 ## AI Assist: Exploring Academic Literature with AI Research Tools 
 
-You can use academic AI tools to support this process. For example, they can help to get some initial studies and directions in the field. Examples of tools you could use for this purpose are Consensus, Perplexity pro or Elicit.
+In addition to 'traditional' databases like Scopus, Dimensions and Web of Science, you can use academic AI tools to explore the literature in the research field you are interested in. For example, they can help to get some initial studies and directions in the field to see what already has been done by other researchers. Examples of tools you could use for this purpose are:
 
 - <a href="https://consensus.app/" target="_blank">Consensus</a>
 - <a href="https://www.perplexity.ai/pro" target="_blank">Perplexity Pro</a>
@@ -47,34 +46,29 @@ Each tool has different strengths:
 - **Perplexity Pro** combines broad web and academic search with citations.
 - **Elicit** provides semantic search and summarisation from Semantic Scholar.
 
-```{note}
-Academic tools will often ask you to create an account, and will provide you with a limited amount of free queries. It is therefore good to be purposeful when using these tools.
+Academic AI tools will often ask you to create an account and will provide you with a limited amount of free queries. It is therefore good to be purposeful when using these tools.
+
+```{warning}
+Research tools like Consensus, Elicit and Perplexity Pro search open access scientific literature (often via <a href="https://www.semanticscholar.org" target="_blank">Semantic Scholar</a>). Results from these academic AI tools therefore do not include non-open access sources found in traditional databases like Scopus, Dimensions and Web of Science. It is therefore important to use academic AI tools **in addition to** traditional databases, rather than as a replacement of these databases.
 ```
 
-Research tools like Consensus, Elicit, and the pro-version of Perplexity search open access scientific literature. Often their source base is <a href="https://www.semanticscholar.org" target="_blank">Semantic Scholar</a>. Results from these academic AI tools therefore can miss non-open access sources found in traditional databases like Web of Science, Scopus and Dimensions.
-
-You can use these tools to find key research questions to explore in your topic:
+You can use academic AI tools to find key research questions to explore in your topic:
 
 ```{admonition} Example Prompt
 :class: dropdown note
 
-You are a researcher in the field of [your field]. 
-You have to write a literature review paper about [general topic].
-Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. 
-Present the suggestions as a numbered list.
+You are a researcher in the field of [research field]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list.
 ```
 
-You can also ask the tools to find some key research articles in your field you can then use to orientate yourself:
+You can also ask the tools to find some key research articles in your field you can then use to explore possible research questions:
 
 ```{admonition} Example Prompt
 :class: dropdown note
-You are a researcher in the field of [your field]. 
-You have to write a literature review paper about [general topic]. 
-Please suggest 4-5 key research articles, each with a short description (3-4 sentences) explaining why the article is a key article for this topic
+
+You are a researcher in the field of [research field]. You have to write a literature review paper about [general topic]. Suggest 4-5 key research articles, each with a short description (3-4 sentences) explaining why the article is a key article for this topic.
 ```
 
-Finally, you can ask direct research questions to the tool and see what sources come up in the academic literature. 
-
+Finally, Consensus has an interesting feature that is very useful in the orientation phase. You can ask it a yes/no question and the tool will visualise the consensus in the field (it shows which of the key articles it found answer yes or no to your question or give a mixed answer). Obviously, this feature is not meant to give you a conclusive answer, but it can give you an indication of whether it would be interesting to pursue a possible research direction or not.
 
 ```{admonition} Example Prompt (for Consensus)
 :class: dropdown note

@@ -1,6 +1,6 @@
 # 2. Explore Your Topic and Define Your Research Questions
 
-At the start of your project, you may need to orientate yourself in your topic and find some initial overview articles to study in order to decide on the specific topic you will work on. You also have to develop your research question(s).
+At the start of your project, you need to explore your topic and find some initial overview articles to study in order to decide on the specific topic you will work on. You also have to develop your research question(s).
 
 ![Explore](part2-Explore.png)
 

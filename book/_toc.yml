@@ -20,7 +20,7 @@ parts:
       - file: part2/3-search
         sections:
           - file: part2/3a-keyword-search
-          - file: part2/3b-find-additional
+          - file: part2/3b-find-additional-sources
           - file: part2/3c-evaluate-selection
       - file: part2/4-analyse
         sections:

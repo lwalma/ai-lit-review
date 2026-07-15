@@ -27,7 +27,7 @@ Use academic AI tools to do an exploration of academic literature
 What are some key directions already taken? A common approach is to do topic-level searches in academic databases like <a href="https://www.scopus.com/" target="_blank">Scopus</a>, <a href="https://www.dimensions.ai/" target="_blank">Dimensions</a> or <a href="https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/" target="_blank">Web of Science</a>. Check the titles, abstracts and keywords of documents you find useful. In addition, it can be helpful to look for specific review articles around your topic.
 
 ```{admonition} Expert Software for Exploring Scientific Literature
-:class: dropdown tip
+:class: seealso dropdown
 
 Do you want to do a more detailed mapping of academic literature? You could use the <a href="https://www.vosviewer.com/getting-started" target="_blank">VOSviewer</a>, a tool created by Leiden University. The VOSviewer is embedded in the Dimensions database, but also works as standalone software to which you can upload references. You can use the VOSviewer to make an overview of common terms that are mentioned in the academic literature for your topic or subject area.
 

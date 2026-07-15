@@ -31,4 +31,4 @@ parts:
           - file: part2/5a-draft
           - file: part2/5b-revising
           - file: part2/5c-citing
-
+          - file: part2/5d-report-ai-use

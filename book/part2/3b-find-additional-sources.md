@@ -166,7 +166,7 @@ Never use general AI tools, such as Copilot or ChatGPT, to find academic literat
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Find additional literature | Use citations from key articles to find more references | Use literature mapping tools to explore key references and citations further | Academic tools, e.g. ResearchRabbit, Connected Papers | Upload or find a relevant paper and explore the citation trail |
+| Find additional literature | Use citations from key articles to find more references | Use literature mapping tools to explore key references and citations | Academic tools, e.g. ResearchRabbit, Connected Papers | Upload or find a relevant paper and explore the citation trail |
 | | | Use semantic searching to find additional papers | Academic tools, e.g. Elicit, SciSpace | Enter your research question and explore the literature found (potentially doing a citation search) |
 | | | Use agent-based searching to find additional papers in an extensive and detailed search | Academic tools, e.g. Undermind | Enter your research question and explore the literature found |
 

@@ -58,9 +58,9 @@ AI tools can assist you in finding additional literature in multiple ways. There
 - <a href="https://www.litmaps.com/" target="_blank">Litmaps</a>
 
 These tools work in similar ways: they all create visualisations (maps) of relevant sources, but the way in which they search or visualise may be different:
-- ResearchRabbit maps sources that cite, are cited by or are similar to an article
-- ConnectedPapers maps prior works and derivative works of an article
-- Litmaps maps sources that cite or are cited by an article
+- **ResearchRabbit** maps sources that cite, are cited by or are similar to an article
+- **ConnectedPapers** maps prior works and derivative works of an article
+- **Litmaps** maps sources that cite or are cited by an article
 
 ```{warning}
 Literature mapping tools only have access to open access research articles. Non-open access sources cannot be found with these tools. It is therefore important to use these tools **in addition to** other search strategies with 'traditional' sources, rather than as a replacement of them.

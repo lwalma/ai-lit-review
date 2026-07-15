@@ -22,14 +22,14 @@ Use general tools to sort the order of your results before you go through the ti
 
 :::{grid-item-card} AI Assist 2<br>
 [Dynamically Sort Results while Selecting](#ai-assist-2-dynamically-sort-results-while-selecting)<br>
-Train an AI-model to dynamically change the order of your results as you select based on titles and abstracts
+Train an AI model to dynamically change the order of your results as you select based on titles and abstracts
 :::
 
 ::::
 
 ## Recap Standard Practice: Title-Abstract Reading
 
-A common way to select academic literature is by doing title-abstract reading. Watch this video to learn more about the practice. This strategy works well because you can quickly scan whether an article is relevant for your research.
+A common way to select academic literature is by doing title-abstract reading. This strategy works well because you can quickly scan whether an article is relevant for your research. Watch this video to learn more about the practice:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/ed24f15b2a8d4f43bbe62a4573f341531d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 "Selecting Resources" by TU Delft Library Education Support is licensed CC-BY
@@ -68,7 +68,7 @@ _I am a [x year] student in [study]. I am writing a literature review on [topic]
 
 ## AI Assist 2: Dynamically Sort Results while Selecting
 
-There are AI-tools that actively learn what articles are relevant to your research based on your own choices during the review process. This can be especially helpful if you are working with a large amount of sources, both in a literature review and in a systematic literature review. 
+There are AI tools that actively learn what articles are relevant to your research, based on your own choices during the review process. This can be especially helpful if you are working with a large amount of sources, both in a literature review and in a systematic literature review. 
 
 Watch an explainer of one of the most commonly used tools for this process, ASreview, to learn more about how this process works:
 
@@ -87,8 +87,8 @@ Installation of ASReview requires some basic Python knowledge. You can find more
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Sort results from an initial search | Organise based on relevance score database | Make an initial relevance ranking of found papers to improve selection | General tools, e.g. Copilot, Claude, Gemini | I am a [x year] student in [study]. I am writing a literature review on [topic] with the following research question: [research question]. Attached is a file with all the sources that I found. Read the attached file, then make an organised list in their order of relevance to this question. Finally, make a table of this list including the name, authors, relevancy score and url leading directly to the location of the article. [attach a list from reference manager or specific database into tool] |
-| Select articles to study | Title-abstract reading | Train AI to dynamically aid the review process | ASReview, Covidence | n/a |
+| Sort results from an initial search | Organise based on relevance score database | Make an initial relevance ranking of found papers to improve selection | General tools, e.g. Copilot, ChatGPT, Claude, Gemini | I am a [x year] student in [study]. I am writing a literature review on [topic] with the following research question: [research question]. Attached is a file with all the sources that I found. Read the attached file, then make an organised list in their order of relevance to this question. Finally, make a table of this list including the name, authors, relevancy score and url leading directly to the location of the article. [attach a list from reference manager or specific database into tool] |
+| Select articles to study | Title-abstract reading | Train AI to dynamically aid the review process | ASReview | n/a |
 
 ## References
 

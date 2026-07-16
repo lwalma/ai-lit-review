@@ -1,6 +1,6 @@
 # Drafting Your Text
 
-When you’ve found the literature you need and you’ve analysed your sources, it’s time to start drafting your text. In this step, you have to do most of the work yourself. Not only is there a big risk of inaccuracies in your text if you outsource this step to a GenAI tool, drafting the text yourself is very helpful in organising your thoughts and get an even better understanding of the topic you’re working on. There are however some elements that AI can assist you with.
+When you have found the literature you need and you have analysed your sources, it is time to start drafting your text. In this step, you have to do most of the work yourself. Not only is there a big risk of inaccuracies in your text if you outsource this step to a GenAI tool, drafting the text yourself is very helpful in organising your thoughts and get an even better understanding of the topic you are working on. There are however some elements that AI can assist you with.
 
 ::::{grid}
 :gutter: 1
@@ -29,7 +29,7 @@ Ask general AI tools for critical questions and counterarguments to strengthen y
 
 ## Recap Standard Practice: Drafting Your Text
 
-There is not just one standard practice when it comes to drafting a text. Some writers prefer to start creating a detailed outline of their text before they start writing, while others prefer to just start writing and (re)structure the text later. Some people start with the introduction, while others first write the results or conclusion and save the introduction for last. There is no right or wrong here, as long as you find a strategy that fits you (and as long as you end up with a text that meets the requirements you were given).
+There is not just one standard practice when it comes to drafting a text. Some writers prefer to start creating a detailed outline of their text before they start writing, while others prefer to just start writing and (re)structure the text along the way. Some people start with the introduction, while others first write the results or conclusion and save the introduction for last. There is no right or wrong here, as long as you find a strategy that fits you (and as long as you end up with a text that meets the requirements you were given).
 
 If you would like to know more about different writing strategies, different scientific text genres, structuring or writing a scientific text, please consult <a href="https://brightspace-cc.tudelft.nl/course/2901/tu-write" target="_blank">TU Write</a>.
 
@@ -40,6 +40,10 @@ As mentioned, some people prefer to first make an outline, before they start wri
 ```{admonition} Example Prompt
 :class: dropdown note 
 You are a [X year] student in [study]. You are writing a literature review paper about [topic]. Your research question is: [research question]. The text has to follow the IMRD structure. Create a detailed structure overview for the literature review paper and define for each section what could be discussed.
+```
+
+```{warning}
+Do not blindly follow the AI's suggestions for your outline. Use your own critical thinking skills to assess the qualitiy of the output and take the good parts to develop the structure of your text yourself.
 ```
 
 ```{admonition} Guided Activity: Use General AI Tools to Create an Outline
@@ -65,9 +69,11 @@ _You are a [X year] student in [study]. You are writing a literature review pape
 
 ## AI Assist 2: Using GenAI as Sparring Partner to Create Stronger Arguments
 
-If you have written some paragraphs or sections, and you are uncertain whether your arguments make sense, you can ask an AI tool to ask critical questions about your text. Most general AI tools, like Copilot or ChatGPT, are suitable for this purpose. You could consider using the deep reasoning mode of the AI that you’re using (if it has one) for better results (but note that this requires a lot more energy to process). 
+If you have written some paragraphs or sections and you are uncertain whether your arguments make sense, you can ask a GenAI tool to ask critical questions about your text. Most general AI tools, like Copilot or ChatGPT, are suitable for this purpose. You could consider using the deep reasoning mode of the AI that you’re using (if it has one) for better results (but note that this requires a lot more energy to process). Using GenAI as sparring partner may help you to find the flaws in your reasoning and create stronger arguments. 
 
-Using GenAI as sparring partner may help you to find the flaws in your reasoning and create stronger arguments. Note that, although the models are improving, LLMs don’t stand out for their reasoning skills. It is therefore advised to not use GenAI tools to generate arguments for you. As a critical sparring partner, however, Gen AI tools can give you good advice to strengthen your arguments.
+```{warning}
+Although the models are improving, LLMs don’t stand out for their reasoning skills. It is therefore advised to not use GenAI tools to generate arguments for you. As a critical sparring partner, however, GenAI tools can give you good advice to strengthen your arguments. You should still improve the text yourself.
+```
 
 ```{admonition} Example Prompt
 :class: dropdown note 
@@ -85,7 +91,7 @@ You are an expert on [topic]. Below you can find a section from my literature re
 
 _You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list._
 
-Step 4: Evaluate the outcome:
+**Step 4.** Evaluate the outcome:
 - Which critical questions and counterarguments are useful to improve your text?
 - Are the suggestions that the tool gave you to anticipate these questions and counterarguments helpful?
 - If necessary, ask the AI follow-up questions about the suggestions it gave.
@@ -97,7 +103,7 @@ Step 5: Improve your text based on the outcome of the previous steps.
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-| 
-| Drafting your text | Write and structure a first version of your text | Use AI to create an outline for your text | General tools, e.g. Copilot, ChatGPT | You are a [X year] student in [study]. You are writing a literature review paper about [topic]. Your research question is: [research question]. The text has to follow the IMRD structure. Create a detailed structure overview for the literature review paper and define for each section what could be discussed.|
+| Drafting your text | Write and structure a first version of your text | Use AI to help you make an outline for your text | General tools, e.g. Copilot, ChatGPT | You are a [X year] student in [study]. You are writing a literature review paper about [topic]. Your research question is: [research question]. The text has to follow the IMRD structure. Create a detailed structure overview for the literature review paper and define for each section what could be discussed.|
 | | | Use AI as sparring partner to create stronger arguments | General tools, e.g. Copilot, ChatGPT | You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list.|
 
 ## References

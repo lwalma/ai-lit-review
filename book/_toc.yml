@@ -24,8 +24,9 @@ parts:
           - file: part2/3c-evaluate-selection
       - file: part2/4-analyse
         sections:
-          - file: part2/4a-reading-summarising
-          - file: part2/4b-synthesising
+          - file: part2/4a-reading
+          - file: part2/4b-summarising
+          - file: part2/4c-synthesising
       - file: part2/5-write
         sections:
           - file: part2/5a-draft

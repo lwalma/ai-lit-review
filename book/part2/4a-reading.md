@@ -1,4 +1,4 @@
-# Reading and Summarising Sources
+# Reading
 
 Analysing the literature you found often starts with reading and summarising the information you chose to include in your literature review.
 

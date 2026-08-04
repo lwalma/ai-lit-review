@@ -1,12 +1,12 @@
 # Reading
 
-Analysing the literature you found often starts with reading and summarising the information you chose to include in your literature review.
+Analysing the literature you found starts with reading the sources you chose to include in your literature review.
 
 ::::{grid}
 :gutter: 1
 
 :::{grid-item-card} Standard Practice <br>
-[Scanning, Reading and Note-Taking](#recap-standard-practice-scanning-reading-and-note-taking)<br>
+[Decide Your Reading Order, Scan, Close Read and Take Notes](#recap-standard-practice-scanning-reading-and-note-taking)<br>
 Scan the source, followed by more in-depth reading and summarising
 :::
 
@@ -27,23 +27,25 @@ Support your reading and summarising with AI-generated audio or video summaries 
 
 ::::
 
-## Recap Standard Practice: Scanning, Reading and Note-Taking
+## Recap Standard Practice: Decide Your Reading Order, Close Read and Take Notes
 
-Reading a scientific article means going through the following steps:
+When analysing your sources, you often first do a quick scan of all of them to **decide the best order** to read them. Based on what you already know about your topic, your information search questions and how much time you have, you decide which sources you will first read in more detail. 
 
-- Decide how much time you have
-- Before reading information scan it
-- Zoom in on the useful information
-- Ask yourself questions
-- Take notes
+After you’ve decided on your reading order, it is time to actually start reading. You can use the following steps to support your **close reading journey**:
 
-It can be helpful to create a literature matrix while you are reading your sources and taking notes. A literature matrix is a schematic overview that outlines the literature. It could look like this, for example:
+1. **Prepare Your Close Reading**: Set up an optimal reading environment to help you focus and define with what purpose you are reading a source, read the _abstract_, _introduction_, _discussion_ and _conclusion_ first makes it easier to understand the contents and goals of the source before you dive further into it
 
-| Sub-topic or theme | Source 1 | Source 2 | Source 3 | etc. |
-|-|-|-|-|-|
-| Sub-topic or theme 1 | relevant information from source 1 about theme 1 | relevant information from source 2 about theme 1 | relevant information from source 3 about theme 1 |  ... |
-| Sub-topic or theme 2 | relevant information from source 1 about theme 2 | ... | ... | ... |
-| Sub-topic or theme 3 | relevant information from source 1 about theme 3 | ... | ... | ... |
+2. **Close Reading & Notetaking**: After scanning the source, you read the source in more detail with critical questions in mind, and you can also do some notetaking
+
+3. **Update Your Search Strategy**: As you close read relevant articles your ideas will likely evolve and you may need to adapt your search strategy
+
+Have a look at the video below from PittCCLibrary to learn more about the different sections of a scholarly article to focus on while reading:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+"<a href="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" target=_blank>How to Read a Scholarly Article</a>" by <a href="https://www.youtube.com/@PittCCLibrary" target=_blank>PittCCLibrary</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
+
+If you want to learn more about this standard practice, have a look at **__TULIB PAGE__**
+
 
 ## AI Assist 1: Generate Initial Summaries of Your Sources
 Academic literature can be difficult to read. To help facilitate the reading process, you can use local-input tools like NotebookLM, <span>docAnalyzer.ai</span> or ChatPDF to provide you with an initial summary of your sources. It can help you to understand the different parts of an article better before or while you are reading it. 

@@ -1,6 +1,6 @@
 # Finding Additional Sources
 
-In addition to keyword searches, there are a number of techniques you can use to find additional literature that may help you answer your research question. To get a more complete picture, we recommend using these techniques only in addition to keyword searching.
+In addition to keyword searches, there are a number of techniques you can use to find additional literature that may help you answer your research question. To get a more complete picture and to make your literature search reproducible, we recommend using these techniques only _in addition_ to keyword searching.
 
 ::::{grid}
 :gutter: 1
@@ -155,7 +155,7 @@ Now that you have learned about several AI-assisted techniques to search for lit
 - Use one or more key publications to find more papers with a literature mapping tool such as ResearchRabbit
 - Use the reference lists from key publications to find papers that the AI tool could not find ('snowballing')
 
-The advantage of using academic AI tools is that they can perform tasks way faster than you can, which can save a lot of time. However, one of their limitations is that they cannot find non-open access publications. It is therefor important to never only rely on AI tools when searching for academic literature.
+The advantage of using academic AI tools is that they search in a different way than traditional keyword-based search engines, and can as a result find additional sources you would otherwise might not have found. However, these tools often don't search non-open access publications that are part of traditional databases like Scopus or Dimensions. It is therefore important to never only rely on AI tools when searching for academic literature.
 
 ```{warning}
 Never use general AI tools, such as Copilot or ChatGPT, to find academic literature. Although they may incidentally provide you with a useful source, they are not designed to search for academic sources. As explained in Part 1, these tools often hallucinate and provide non-existing sources. If you use AI tools to search for academic sources, always use academic AI tools like the ones mentioned in this chapter.

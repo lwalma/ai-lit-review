@@ -24,7 +24,9 @@ Ask AI to check the formatting of your reference list
 
 ## Recap Standard Practice: Citing Sources
 
-When you are working with a limited number of sources, you should consult the guidelines of the particular citation style and format your references accordingly, both in the text and in the reference list. You can use tools, such as this <a href="https://www.tudelft.nl/tulib/apa-citation-examples" target=_blank>APA Citation Table</a> from TU Delft or the <a href="[url](https://www.scribbr.nl/bronvermelding/generator/)" target="_blank">reference generator</a> from Scribbr, to help you format your references correctly.
+When citing sources, you should consult the guidelines of the particular citation style and format your references accordingly, both in the text and in the reference list. 
+
+If you are working with a limited amount of sources, you can use tools, such as this <a href="https://www.tudelft.nl/tulib/apa-citation-examples" target=_blank>APA Citation Table</a> from TU Delft or the <a href="https://www.scribbr.nl/bronvermelding/generator/" target="_blank">reference generator</a> from Scribbr, to help you format your references correctly.
 
 If you are working with a large number of sources, it is efficient to use a reference manager to manage and cite your sources in the format of your choice. Have a look at this video to learn more about how to use these tools:
 

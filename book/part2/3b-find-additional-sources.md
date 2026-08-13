@@ -124,7 +124,6 @@ Instead of just looking for keyword matches, agent-based searching techniques us
 
 - <a href="https://www.undermind.ai/" target="_blank">Undermind</a>
 - <a href="https://asta.allen.ai/" target="_blank">Ai2 Asta</a>
-- FutureHouse Platform
 
 ```{warning}
 Even though these tools might be able to find more hidden papers (compared to other academic AI tools), they still will not be able to find non-open access publications. It is therefore important to use these tools **in addition to** 'traditional' databases, rather than as a replacement of them.

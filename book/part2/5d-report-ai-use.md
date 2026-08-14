@@ -6,7 +6,7 @@ When you use AI tools in the literature research or writing process, it is impor
 
 For students: it is important to report about your AI use so that your supervisor or lecturer can check if you used AI responsibly. They also want to see if your AI use follows the AI guidelines of your university or faculty (if it has any) and if you comply to academic standards (i.e., use AI responsibly).
 
-For researchers: For academics who want to publish their work, it is important to be transparent about AI use. Scientific journals and publishers are placing increasing importance about reporting about AI use to uphold the academic integrity and high quality of publications. These journals and publishers all emphasise that author(s) always remain responsible for any errors due to ineffective AI use.
+For researchers: If you want to publish your work, it is important to be transparent about your AI use. Scientific journals and publishers are placing increasing importance about reporting about AI use to uphold the academic integrity and high quality of publications. These journals and publishers all emphasise that author(s) always remain responsible for any errors due to ineffective AI use.
 
 ## How to Report about AI Use
 

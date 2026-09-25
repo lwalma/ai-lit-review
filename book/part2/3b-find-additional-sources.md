@@ -158,7 +158,7 @@ Now that you have learned about several AI-assisted techniques to search for lit
 The advantage of using academic AI tools is that they search in a different way than traditional keyword-based search engines, and can as a result find additional sources you would otherwise might not have found. However, these tools often don't search non-open access publications that are part of traditional databases like Scopus or Dimensions. It is therefore important to never only rely on AI tools when searching for academic literature.
 
 ```{warning}
-Never use general AI tools, such as Copilot or ChatGPT, to find academic literature. Although they may incidentally provide you with a useful source, they are not designed to search for academic sources. As explained in Part 1, these tools often hallucinate and provide non-existing sources. If you use AI tools to search for academic sources, always use academic AI tools like the ones mentioned in this chapter.
+Never use general AI tools, such as Copilot or ChatGPT, as a standalone tool to find academic literature. Although they may incidentally provide you with a useful source, they are not designed to search for academic sources. As explained in Part 1, these tools often hallucinate and provide non-existing sources. If you use AI tools to search for academic sources, always use academic AI tools like the ones mentioned in this chapter (or, if you are an advanced user, connect your general AI tools to these academic AI tools)
 ```
 
 ## Summary and Prompts

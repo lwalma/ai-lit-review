@@ -24,7 +24,7 @@ Use academic AI tools to do an exploration of academic literature
 
 ## Recap Standard Practice: Topic-Level Searching
 
-What are some key directions already taken? A common approach is to do topic-level searches in academic databases like <a href="https://www.scopus.com/" target="_blank">Scopus</a>, <a href="https://www.dimensions.ai/" target="_blank">Dimensions</a> or <a href="https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/" target="_blank">Web of Science</a>. Check the titles, abstracts and keywords of documents you find useful. In addition, it can be helpful to look for specific review articles around your topic.
+What are some key directions already taken? A common approach is to do topic-level searches in academic databases like <a href="https://www.scopus.com/" target="_blank">Scopus</a> or <a href="https://www.dimensions.ai/" target="_blank">Dimensions</a>. Check the titles, abstracts and keywords of documents you find useful. In addition, it can be helpful to look for specific review articles around your topic.
 
 ```{admonition} Expert Software for Exploring Scientific Literature
 :class: seealso dropdown

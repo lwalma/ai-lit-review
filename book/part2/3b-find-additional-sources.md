@@ -150,7 +150,7 @@ Even though these tools might be able to find more hidden papers (compared to ot
 Now that you have learned about several AI-assisted techniques to search for literature, you might be wondering how these techniques can be combined with 'traditional' search techniques such as keyword searching and 'snowballing'. There is not just one correct procedure you should always follow. An example of an effective method could be:
 
 - Start with a semantic search in an academic AI tool such as Elicit
-- Do a keyword search in traditional databases such as Scopus or Web of Science
+- Do a keyword search in traditional databases such as Scopus or Dimensions
 - Identify key publications
 - Use one or more key publications to find more papers with a literature mapping tool such as ResearchRabbit
 - Use the reference lists from key publications to find papers that the AI tool could not find ('snowballing')

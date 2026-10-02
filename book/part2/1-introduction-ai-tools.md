@@ -11,20 +11,24 @@ During the literature review process, there are multiple steps where you will wo
 3. **Analyse**: analyse and synthesise findings from selected sources
 4. **Write**: write your text and cite sources
 
-For each of these steps, AI tools can support the process. To be able to effectively use these tools, it is important to understand three types of GenAI tools: 
+For each of these steps, AI tools can support the process. To be able to effectively use these tools, it is important to understand two types of GenAI tools: 
 - General tools
 - Academic search tools
-- Local-input tools
 
 Knowing a bit more about how these tools are trained and what sources they use will make you more effective in using AI for literature review.
 
 ## Different Tools for Literature Review
 
-GenAI tools differ in the sources they draw from. **General AI tools** like Copilot, ChatGPT or Claude search or are trained on sources from the open web. General AI tools are designed to help with general questions. Because they are trained on sources from the open web, they are quite good at that. General AI tools are not designed to do research. They are not specifically trained on or connected to academic publications and the sources they provide are often fake.
+GenAI tools differ in the sources they draw from. **General AI tools** like Copilot, ChatGPT or Claude search or are trained on sources from the open web. General AI tools are designed to help with general questions. Because they are trained on sources from the open web, they are quite good at that. General AI tools are not designed to do research. They are not specifically trained on or connected to academic publications and the sources they provide can be fake.
 
 **Academic AI tools**, on the other hand, draw from academic sources, often from <a href="https://www.semanticscholar.org/" target="_blank">Semantic Scholar</a>. They are developed specifically to assist in the process of doing research. For example, they can assist in finding relevant peer-reviewed articles by searching directly (for example through agent-based or semantic searching), or by finding new articles based on initial seed papers (literature mapping). They can also help summarise main topics in a specific research field.
 
-**Local-input tools**, like NotebookLM, ChatPDF and ASReview allow you to work on specific documents you upload to a server or host locally. They work well when you have specific sources you want to study, and summarise specific information and extract the details. You can also upload specific documents to a general tool for analysis, but because they draw from their extensive knowledge base, the output the model provides can be less specific. In a tool that is designed to work with the sources you put in, you often have more control over the output.
+**Local-input tools**, like NotebookLM, ChatPDF and ASReview allow you to work on specific documents you upload to a server or host on your computer. They work well when you have specific sources you want to study, and can summarise specific information and extract the details. You can also upload specific documents to a general tool for analysis, but because they draw from their extensive knowledge base, the output the model provides can be less specific. In a tool that is designed to work with the sources you put in, you often have more control over the output.
+
+```{admonition} Uploading documents to AI tools
+:class: warning
+Be mindful of the information you upload to AI tools: It is often not allowed to upload sensitive or copyrighted materials into AI tools connected to servers. This is because it is unclear where the information you upload will end up. Things like uploading an academic article to NotebookLM to summarise or create a podcast, having ChatGPT analyse data you gathered in interviews, or sharing someone's preliminary research ideas with Claude are generally not allowed, unless you have written permission from the authors or participants. Alternatively, you could consider using tools that run locally on your computer, like ASreview, or Ollama
+```
 
 Depending on which task you need to perform for a literature review, you might need to use a general tool, focus on a more specific academic tool or use a local-input tool. In this guide we will discuss all three types of models throughout. Our goal is that you know for each of the phases how an AI tool could assist you in the process and that you are able to select a relevant tool to work with.
 
@@ -42,7 +46,7 @@ Some questions you can ask yourself to decide what type of AI tool you should us
 - What type of sources do you need the model to use to complete the task? Academic, general or your own input?
 - What costs are involved in using the tool and what are you allowed to do in the free version?
 - Do you need deep reasoning features or will general reasoning suffice for your task?
-- Do you want to upload sources to the tool? If so: make sure you are not working with sensitive or copyrighted information.
+- Are you working sensitive or copyrighted information? If so, be aware you are not allowed to upload this information into the tool. Alternatively, choose a tool that runs locally on your laptop.
 
 There are many AI tools out there you could use for your research. This introduction gave some examples as a starting point and basic understanding of the different tools. For a more comprehensive list of tools, go to resources like <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/compare-ai-tools" target="_blank">this guide from Hong Kong University of Science and Technology</a>.
 

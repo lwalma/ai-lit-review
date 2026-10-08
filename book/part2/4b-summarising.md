@@ -28,7 +28,7 @@ Gather relevant bibliographic information, and summarise using a format of your 
 
 ::::
 
-## Recap Standard Practice: Identify basic components of a source and choose a summary forma
+## Recap Standard Practice: Identify basic components of a source and choose a summary format
 
 **Identify Basic Components**
 When creating a summary, you can choose from a wide variety of formats, but there are some basic components that should always be included:
@@ -53,9 +53,10 @@ Example formats
 If you want to learn more about this standard practice, have a look at **__TULIB PAGE__**
 
 
-## AI Assist 1: 
+## AI Assist 1: Have AI check if you have all basic components in your notes
 
-## AI Assist 2: 
+
+## AI Assist 2: Have AI organise your basic components into a preferred summary format and supplement
 
 
 

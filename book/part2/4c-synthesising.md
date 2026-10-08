@@ -56,13 +56,17 @@ If you want to learn more about this standard practice, have a look at **__TULIB
 
 ## Warning: The Use of AI for Synthesising Literature
 
-While the use of AI is very helpful for exploring your field, finding more sources and supporting selection and reading, it is risky to use AI to do the complete analysis of the selected papers for you. There are multiple reasons why it is better to analyse papers yourself:
+While the use of AI is very helpful for exploring your field, finding more sources and supporting selection and reading, it is risky to use AI to do the complete analysis of the selected papers for you. There are multiple reasons why it is better to synthesise the information yourself:
 
 ````{tab-set}
 
-```{tab-item} Cognitive offloading
+```{tab-item} Deskilling
 
-Having AI do your research limits your own learning process. Synthesising information is one of the key points where learning takes place. Synthesising the information yourself also helps you to get a better understanding of the topics you're working on.
+Having AI do your research limits your own learning process. Synthesising information is one of the key points where learning takes place. Synthesising the information yourself also helps you to get a better understanding of the topics you're working on. Relying on AI to do the synthesising of the literature you found limits the development of your critical thinking skills, as well as your mastering of your research subject.
+
+One practical way to think about AI and learning is to distinguish between useful friction and unnecessary friction. Useful friction is effort that contributes to learning. Just as muscles develop through physical effort, you develop knowledge, skills and judgement by working through meaningful challenges. If too much of that effort is taken over by AI, your literature review may still look good, but you will miss the learning process that gives the result its value.
+
+The skills needed for analysing your sources are examples of useful friction. When you are reading, summarising and synthesizing your findings, you practice the thinking and decision-making skills you need for your future career. In addition, by working through this useful friction you learn more about your topic. 
 
 ```
 
@@ -84,3 +88,4 @@ When you are doing your analyses you may be working with copyrighted or sensitiv
 
 - TU Delft Library Education Support. (n.d.). _Managing your information_. TUlib. Retrieved September 3, 2025, from <a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target="_blank">https://www.tudelft.nl/tulib/managing-your-information/reading-for-research</a>
 - Zhao, A. (n.d.). _LibGuides: Emerging AI Tools for Literature Review: Overview_. Retrieved June 17, 2025, from <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/overview" target="_blank">https://libguides.hkust.edu.hk/AI-tools-literature-review/overview</a>
+- <a href="https://www.tudelft.nl/teaching-support/educational-training/continuing-professional-development/ai-literacy-for-lecturers" target=_blank>AI Literacy for Lecturers</a> by Teaching and Learning Services, TU Delft is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA-4.0</a>

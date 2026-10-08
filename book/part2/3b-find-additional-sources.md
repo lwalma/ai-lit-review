@@ -145,6 +145,10 @@ Even though these tools might be able to find more hidden papers (compared to ot
 
 ```
 
+```{note}
+Note: the tools mentioned in this section have been updated until November 2026. It is likely that due to the rapid developments of AI, new tools will emerge or existing tools will undergo significant changes. To stay up to date, a helpful sources is Hong University of Science and Technology's <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/compare-ai-tools" target=_blank>Comparison of GenAI Tools</a>, which keeps track of the different AI tools currently available for literature reviews.
+```
+
 ## How to Combine Traditional Search Techniques with AI-assisted Techniques
 
 Now that you have learned about several AI-assisted techniques to search for literature, you might be wondering how these techniques can be combined with 'traditional' search techniques such as keyword searching and 'snowballing'. There is not just one correct procedure you should always follow. An example of an effective method could be:

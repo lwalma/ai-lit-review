@@ -26,22 +26,11 @@ Use AI to comment on your draft research question
 
 Formulating a research question means defining specifically the who, what, where and why you want to find information about. You combine these elements into a question with "how". After formulating an initial question, you further can make the who, what, where and why more broader or more narrow, partly based on the orientation and literature exploration you have done. 
 
-Watch the video "Developing a Research Question" from Wilfrid Laurier University Library for an overview of the process of formulating a research question. 
+Watch the video "Developing a Research Question" from Wilfrid Laurier University Library for an overview of the process of formulating a research question.<br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1oJNO6PYZe4?si=baHKXxD9FNXxiVwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-"<a href="https://www.youtube.com/watch?v=1oJNO6PYZe4" target=_blank>"Developing a Research Question"</a>" by <a href="https://www.youtube.com/@laurierlibrarian" target=_blank>Wilfrid Laurier University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
-
-The table below provides an example on more narrow and broader components of a research question and how the different elements can be combined into a question.
-
-|  | Broad | Narrower | Extremely narrow |
-| --- | --- | --- | --- |
-| WHO | Inkless printed materials | Inkless printed teaching materials | Diagrams and formulas on inkless printed teaching materials |
-| WHAT | Optical technology | UV-LED optical technology | UV-LED optical technology Method A |
-| WHERE | Global | European higher education institutions | Classrooms at TU Delft |
-| WHY | Improving inkless printed materials | Improve readability of inkless printed teaching materials | Improve readability of diagrams and formulas on inkless printouts |
-| HOW | How can the print quality of inkless printing be improved by using optical technology? | How can the print quality of inkless printing be improved by using optical technology in European higher education institutions by using UV-LED optical technology? | How can the readability of diagrams and formulas on inkless printed teaching materials at TU Delft be improved using method A of UV-LED optical technology? |
-
-Adapted from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
+"<a href="https://www.youtube.com/watch?v=1oJNO6PYZe4" target=_blank>Developing a Research Question</a>" by <a href="https://www.youtube.com/@laurierlibrarian" target=_blank>Wilfrid Laurier University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
 
 ## AI Assist: Revising Your Draft Research Question
 

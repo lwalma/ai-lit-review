@@ -13,7 +13,8 @@ To use a GenAI tool effectively, it is essential to feed it with well-designed p
 
 Below you can find examples of effective prompts:
 
-<iframe src="https://tudelft.h5p.com/content/1292675759242656547/embed" aria-label="Example Prompts" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1293035986437971857/embed" aria-label="Prompt Engineering version 2026" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+"Prompt Framework and Examples" based on "Emerging AI Tools for Literature Review: Prompting Tips" <https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips> by Hong Kong University of Science and Technology and Lee Shau Kee Library
 
 If you are uncertain about the prompt that you want to use, you could always ask the GenAI tool to optimise the prompt for you. Another option is to give your prompt and ask the AI what additional information it needs to give an optimised response.
 

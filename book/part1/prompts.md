@@ -2,19 +2,17 @@
 
 ## Developing Effective Prompts
 
-To use a GenAI tool effectively, it is essential to feed it with well-designed prompts. Experts have identified the following six components as elements of an effective prompt:
+To use a GenAI tool effectively, it is essential to feed it with well-designed prompts. A few general guidelines to create effective prompts include:
 
-1.	**Define the task clearly**: Give clear, specific and unambiguous instructions (this could also include limitations on what should not be included in the output).
-2.	**Assign a persona**: Tell the GenAI tool “who they are” to make the output more specific and appropriate for your situation.
-3.	**Provide context**: Specify the goal and target audience as well as other background information that could help the GenAI tool to make the output more relevant to your situation.
-4.	**Specify the format**: Define the desired length, structure and other format requirements.
-5.	**Specify the tone**: Define the desired tone of voice (writing style).
-6.	**Supply exemplars**: Provide examples of what the output should look like (either a full example or a framework, such as IMRD).
+1. **Start simple**: Do not overcomplicate your prompt with several steps. Long and complicated prompts are harder to process and can lead to weaker results. Start with a simple prompt and use follow-up prompts to perform next steps.
+2. **Be specific and clear**: Give clear, descriptive and detailed instructions for better results. Avoid vagueness and impreciseness.
+3. **Work iteratively**: Use follow-up prompt to improve the output. The output is often not what you want it to be after just one prompt.
 
-Below you can find examples of effective prompts:
+Experts have suggested different frameworks to create effective prompts. Two of those frameworks, along with examples of how to use these in specific prompts, are presented below:
 
 <iframe src="https://tudelft.h5p.com/content/1293035986437971857/embed" aria-label="Prompt Engineering version 2026" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-"Prompt Framework and Examples" based on "Emerging AI Tools for Literature Review: Prompting Tips" <https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips> by Hong Kong University of Science and Technology and Lee Shau Kee Library
+
+"Prompt Framework and Examples" based on <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips" target="_blank">"Emerging AI Tools for Literature Review: Prompting Tips"</a>by Hong Kong University of Science and Technology and Lee Shau Kee Library.
 
 If you are uncertain about the prompt that you want to use, you could always ask the GenAI tool to optimise the prompt for you. Another option is to give your prompt and ask the AI what additional information it needs to give an optimised response.
 
@@ -30,6 +28,7 @@ Effective use of GenAI tools is (often) an iterative process: it doesn’t stop 
 
 ## References
 
-- Jacobs, M. (2025). _GenAI in Education_ [Interactive Book]. Retrieved August 19, 2025, from <a href="https://www.genaieducationbook.online/welcome.html" target="_blank">https://www.genaieducationbook.online/welcome.html</a>
+- DAIR.AI (2026). _General Tips for Designing Prompts_. Prompt Engineering Guide. <a href="https://www.promptingguide.ai/introduction/tips" target="_blank">https://www.promptingguide.ai/introduction/tips</a>
+- Hong Kong University of Science & Technology and Lee Shau Kee Library (2026). _Emerging AI Tools for Literature Review: Prompting Tips_. <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips" target="_blank">https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips</a>
 - Last, B., & Sprakel, T. (2024). _Chatten met Napoleon: Werken met generatieve AI in het onderwijs_ (2nd edition). Boom.
 - Su, J. (2023, 1 August). _Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=jC4v5AS4RIM" target="_blank">https://www.youtube.com/watch?v=jC4v5AS4RIM</a>

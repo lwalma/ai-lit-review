@@ -39,7 +39,7 @@ Once you have formulated a research question, you can use general tools to refle
 ```{admonition} Example Prompt
 :class: dropdown note
 
-I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I have developed the following research question: [draft research question]. Give me suggestions to improve the research question. Present the suggestions in a bulleted list. For each suggestion, explain how the research question can be adjusted and how that improves it.
+You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to improve this research question. Present the suggestions in a bulleted list. For each suggestion, explain how the research question can be adjusted and how that improves it.
 ```
 
 If you are looking for specific improvements, you can make your prompt more specific. For example, if you already know that your research question is too broad, you ask for suggestions to make it more specific.
@@ -47,7 +47,7 @@ If you are looking for specific improvements, you can make your prompt more spec
 ```{admonition} Example Prompt
 :class: dropdown note
 
-I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I have developed the following research question: [draft research question]. Give me suggestions to make the research questions more specific. Present the suggestions in a bulleted list.
+You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to make this research question more specific. Present the suggestions in a bulleted list.
 ```
 
 ```{admonition} Guided Activity: Develop a Research Question

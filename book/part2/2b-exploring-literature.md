@@ -57,7 +57,7 @@ You can use academic AI tools to find key research questions to explore in your 
 ```{admonition} Example Prompt
 :class: dropdown note
 
-You are a researcher in the field of [research field]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list.
+You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five specific research directions that are worth pursuing. Use your comprehensive database to identify interesting research gaps. Present the suggestions as a numbered list. For each suggestion, give a short description (3-5 sentences) explaining why the topic is relevant and what kinds of research questions could be explored.
 ```
 
 You can also ask the tools to find some key research articles in your field you can then use to explore possible research questions:
@@ -65,7 +65,7 @@ You can also ask the tools to find some key research articles in your field you 
 ```{admonition} Example Prompt
 :class: dropdown note
 
-You are a researcher in the field of [research field]. You have to write a literature review paper about [general topic]. Suggest 4-5 key research articles, each with a short description (3-4 sentences) explaining why the article is a key article for this topic.
+You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five key research articles related to this topic that I should consult. Present the articles as a numbered list, starting with the most important one. For each article, give a short description (3-5 sentences) explaining why the article is a key publication for this topic.
 ```
 
 Finally, Consensus has an interesting feature that is very useful in the orientation phase. You can ask it a yes/no question and the tool will visualise the consensus in the field (it shows which of the key articles it found answer yes or no to your question or give a mixed answer). Obviously, this feature is not meant to give you a conclusive answer, but it can give you an indication of whether it would be interesting to pursue a possible research direction or not.

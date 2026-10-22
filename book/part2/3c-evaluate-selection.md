@@ -43,7 +43,7 @@ When using sources from multiple databases, it can be helpful to use a reference
 ```{admonition} Example Prompt
 :class: dropdown note
 
-I am a [x year] student in [study]. I am writing a literature review on [topic] with the following research question: [research question]. Attached is a file with all the sources that I found. Read the attached file, then make an organised list in their order of relevance to this question. Finally, make a table of this list including the name, authors, relevancy score and url leading directly to the location of the article.<br>
+You are an expert in information literacy and research methods. I am writing a literature review on [topic] with the following research question: [research question]. Attached is a file with all the sources that I found. Read the attached file, then make an organised list in order of relevance to this question. Finally, make a table of this list including the name, authors, relevancy score and doi leading directly to the location of the article.<br>
 [attach a list from reference manager or specific database into tool]
 
 ```
@@ -87,7 +87,7 @@ Installation of ASReview requires some basic Python knowledge. You can find more
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Sort results from an initial search | Organise based on relevance score database | Make an initial relevance ranking of found papers to improve selection | General tools, e.g. Copilot, ChatGPT, Claude, Gemini | I am a [x year] student in [study]. I am writing a literature review on [topic] with the following research question: [research question]. Attached is a file with all the sources that I found. Read the attached file, then make an organised list in their order of relevance to this question. Finally, make a table of this list including the name, authors, relevancy score and url leading directly to the location of the article. [attach a list from reference manager or specific database into tool] |
+| Sort results from an initial search | Organise based on relevance score database | Make an initial relevance ranking of found papers to improve selection | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert in information literacy and research methods. I am writing a literature review on [topic] with the following research question: [research question]. Attached is a file with all the sources that I found. Read the attached file, then make an organised list in order of relevance to this question. Finally, make a table of this list including the name, authors, relevancy score and doi leading directly to the location of the article.<br> [attach a list from reference manager or specific database into tool] |
 | Select articles to study | Title-abstract reading | Train AI to dynamically aid the review process | ASReview | n/a |
 
 ## References

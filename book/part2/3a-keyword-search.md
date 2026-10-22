@@ -37,7 +37,7 @@ To support the keyword searching process, you can use a general AI tool, such as
 ```{admonition} Example Prompt
 :class: dropdown note
 
-I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I want to search [database] for research articles on [research question]. My current query is: [draft query]. Expand the keywords and design a more constructive query.
+You are an expert in information literacy and research methods. I am working on a literature review paper on [topic]. I want to search [database] for research articles on [research question]. My current query is: "[draft query]". Expand the keywords and design a more constructive query. After presenting the improved query, give a short explanation on why this makes a stronger query.
 ```
 
 While general tools can develop queries from scratch, it is recommended to draft an initial query yourself and give it your initial search query, to provide the AI with some direction and come up with a better query.
@@ -80,7 +80,7 @@ Look at the expanded list of keywords or revised query suggested by the tool.
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Develop a keyword search | Combine keywords to create a search query to use in academic databases | Ask general AI tools to help refine the query | General tools, e.g. Copilot, ChatGPT Claude, Gemini | I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I want to search [database] for research articles on [research question]. My current query is: [draft query]. Expand the keywords and design a more constructive query. |
+| Develop a keyword search | Combine keywords to create a search query to use in academic databases | Ask general AI tools to help refine the query | General tools, e.g. Copilot, ChatGPT Claude, Gemini | You are an expert in information literacy and research methods. I am working on a literature review paper on [topic]. I want to search [database] for research articles on [research question]. My current query is: "[draft query]". Expand the keywords and design a more constructive query. After presenting the improved query, give a short explanation on why this makes a stronger query. |
 
 ## References
 

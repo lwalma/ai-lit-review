@@ -42,7 +42,7 @@ GenAI tools have no understanding of truth. The output may contain inaccuracies 
 ```{admonition} Example Prompt
 :class: dropdown note
 
-You are a [x year] student in [study]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list.
+You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five specific research directions that are worth pursuing. Use your comprehensive database to identify interesting research gaps. Present the suggestions as a numbered list. For each suggestion, give a short description (3-5 sentences) explaining why the topic is relevant and what kinds of research questions could be explored.
 ```
 
 To provide more context, you could also add some information in your prompt and ask the model to provide you with some directions to look into. For example, upload an open-source report or a topic description to make this more specific.
@@ -50,10 +50,8 @@ To provide more context, you could also add some information in your prompt and 
 ```{admonition} Example Prompt
 :class: dropdown note
 
-You are a [x year] student in [study]. You have to write a literature review paper about [general topic].
-Based on the information below and general knowledge about the topic, suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. 
-Present the suggestions as a numbered list.<br>
-[information about the topic]
+You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five specific research directions that are worth pursuing. Use the text below and your comprehensive database to identify interesting research gaps. Present the suggestions as a numbered list. For each suggestion, give a short description (3-5 sentences) explaining why the topic is relevant and what kinds of research questions could be explored.<br>
+Text: "[information about the topic]"
 ```
 
 As of February 2025 many of a lot of general AI tools have added the option to do more detailed research, called **deep research**. This process is often more time consuming, and for a simple brainstorm it can be enough to ask a question to a basic model, rather than asking for a detailed review, but this is something you can explore for yourself!
@@ -94,7 +92,7 @@ _You are a [x year] student in [study]. You have to write a literature review pa
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Find background information and gather possible research directions | Search Google and Wikipedia for background articles on a topic | Ask general AI tools for background information and suggestions | General tools, e.g. Copilot, ChatGPT, Gemini, Claude, Perplexity | You are a [x year] student in [study]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list. |
+| Find background information and gather possible research directions | Search Google and Wikipedia for background articles on a topic | Ask general AI tools for background information and suggestions | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five specific research directions that are worth pursuing. Use your comprehensive database to identify interesting research gaps. Present the suggestions as a numbered list. For each suggestion, give a short description (3-5 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. |
 | | | | | Use the above prompt, but add some context to your chosen GenAI tool(s) (e.g., descriptions of the field) |
 | | | | | Use the deep research features of tools to look for information more extensively |
 

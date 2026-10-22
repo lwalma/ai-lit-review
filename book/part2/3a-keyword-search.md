@@ -28,6 +28,8 @@ When developing keyword searches for an academic database, you should combine mu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n6SA4dQlJmE?si=50wsADHk9iM6nL-r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+Once you have developed a strong query, you can use it to search for literature in academic databases. You can use general academic databases, such as Scopus or Web of Science, or you could use topic-specific databases (if available in your field of research).
+
 ## AI Assist: Refining Your Draft Query
 
 To support the keyword searching process, you can use a general AI tool, such as Copilot or ChatGPT, to augment a keyword search. For example, you can ask it for additional synonyms as you are developing your draft keyword search.

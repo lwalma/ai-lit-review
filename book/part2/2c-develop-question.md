@@ -78,7 +78,7 @@ _I am a [x year] student in [study]. I am working on a literature review paper o
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Develop a research question | Define the who, what, where and why of your research, based on initial literature exploration | Ask tools to review your draft research question | General tools, e.g. Copilot, ChatGPT, Gemini, Claude | I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I have developed the following research question: [draft research question]. Give me suggestions to improve the research questions. Present the suggestions in a bulleted list. For each suggestion, explain how the research question can be adjusted and how that improves it. |
+| Develop a research question | Define the who, what, where and why of your research, based on initial literature exploration | Ask tools to review your draft research question | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to improve this research question. Present the suggestions in a bulleted list. For each suggestion, explain how the research question can be adjusted and how that improves it. |
 
 ## References
 

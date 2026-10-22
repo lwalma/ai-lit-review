@@ -19,24 +19,26 @@ Knowing a bit more about how these tools are trained and what sources they use w
 
 ## Different Tools for Literature Review
 
+### General versus Academic AI Tools
+
 GenAI tools differ in the sources they draw from. **General AI tools** like Copilot, ChatGPT or Claude search or are trained on sources from the open web. General AI tools are designed to help with general questions. Because they are trained on sources from the open web, they are quite good at that. General AI tools are not designed to do research. They are not specifically trained on or connected to academic publications and the sources they provide can be fake.
 
 **Academic AI tools**, on the other hand, draw from academic sources, often from <a href="https://www.semanticscholar.org/" target="_blank">Semantic Scholar</a>. They are developed specifically to assist in the process of doing research. For example, they can assist in finding relevant peer-reviewed articles by searching directly (for example through agent-based or semantic searching), or by finding new articles based on initial seed papers (literature mapping). They can also help summarise main topics in a specific research field.
 
-**Local-input tools**, like NotebookLM, ChatPDF and ASReview allow you to work on specific documents you upload to a server or host on your computer. They work well when you have specific sources you want to study, and can summarise specific information and extract the details. You can also upload specific documents to a general tool for analysis, but because they draw from their extensive knowledge base, the output the model provides can be less specific. In a tool that is designed to work with the sources you put in, you often have more control over the output.
+Depending on which task you need to perform for a literature review, you might need to use a general tool or focus on a more specific academic tool. In this guide we will discuss both types of models throughout. Our goal is that you know for each of the phases how an AI tool could assist you in the process and that you are able to select a relevant tool to work with.
+
+### Local-input tools
+
+Some AI tools (both general and academic tools) allow you to work on specific documents you upload to a server or host on your computer. These tools are called **local-input tools**. Examples include NotebookLM, ChatPDF and ASReview. Local-input tools work well when you have specific sources you want to study, and can summarise specific information and extract the details. You can also upload specific documents to a general tool for analysis, but because they draw from their extensive knowledge base, the output the model provides can be less specific. In a tool that is designed to work with the sources you put in, you often have more control over the output.
 
 ```{admonition} Uploading documents to AI tools
 :class: warning
-Be mindful of the information you upload to AI tools: It is often not allowed to upload sensitive or copyrighted materials into AI tools connected to servers. This is because it is unclear where the information you upload will end up. Things like uploading an academic article to NotebookLM to summarise or create a podcast, having ChatGPT analyse data you gathered in interviews, or sharing someone's preliminary research ideas with Claude are generally not allowed, unless you have written permission from the authors or participants. Alternatively, you could consider using tools that run locally on your computer, like ASreview, or Ollama
+Be mindful of the information you upload to AI tools: it is not allowed to upload sensitive or copyrighted materials into AI tools connected to servers. This is because it is unclear where the information you upload will end up. Things like uploading an academic article to NotebookLM to summarise or create a podcast, having ChatGPT analyse data you gathered in interviews or sharing someone's preliminary research ideas with Claude are generally not allowed, unless you have written permission from the authors or participants. Alternatively, you could consider using tools that run locally on your computer, like ASreview or Ollama.
 ```
-
-Depending on which task you need to perform for a literature review, you might need to use a general tool, focus on a more specific academic tool or use a local-input tool. In this guide we will discuss all three types of models throughout. Our goal is that you know for each of the phases how an AI tool could assist you in the process and that you are able to select a relevant tool to work with.
-
-Some tools combine multiple types of AI in one. For example, Elicit offers both the option to search academic literature and subsequently allows you to analyse the documents you select, working like a local-input tool.
 
 ### Deep Reasoning Models
 
-In all three types of tools you can often switch the type of model that is used from a light model, to a more advanced, often reasoning model. They will offer the option to switch to an option called "reasoning / deep research". This means the tool will use a model that takes more time and processes a problem step-by-step. This often leads to more detailed information. A downside of deep reasoning models is that it takes more time to perform a task and they also consume a larger amount of energy to run. Moreover, sometimes you can only use deep reasoning models if you use the paid version or you have a limited number of prompts you can do in a free version. Depending on which task you are performing and how detailed you need the output to be, you can decide to use this feature or not.
+Some AI tools (both general and academic tools) allow you to switch the type of model that is used from a light model, to a more advanced model: a **deep reasoning model**. This means the tool will use a model that takes more time and processes a problem step-by-step. This often leads to more detailed information. A downside of deep reasoning models is that it takes more time to perform a task and they also consume a larger amount of energy to run. Moreover, sometimes you can only use deep reasoning models if you use the paid version or you have a limited number of prompts you can do in a free version. Depending on which task you are performing and how detailed you need the output to be, you can decide to use this feature or not.
 
 ## How to Choose Your AI Tool
 
@@ -63,7 +65,7 @@ It is important to be transparent about your use of AI throughout your project. 
 
 | General tools | Academic search tools | Local-input tools |
 |-|-|-|
-| Trained on / search open web | Trained on / search academic sources (often from Semantic Scholar) | Trained on / search data provided by you |
+| Trained on / search open web | Trained on / search academic sources (often from Semantic Scholar) | Work with data provided by you |
 | General questions | Research questions | Specific questions related to specific sources |
 | Sources provided sometimes fake | Sources provided are real | Sources used are real
 | Examples:<br><br>• Copilot<br>• ChatGPT<br>• Gemini<br>• Claude | Examples:<br><br>• Elicit<br>• Consensus<br>• Undermind.ai<br>• LitMaps | Examples:<br><br>• NotebookLM<br> • ASReview<br>• ChatPDF<br> • Elicit |

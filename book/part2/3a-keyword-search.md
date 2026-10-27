@@ -26,7 +26,8 @@ Use AI to suggest improvements for your draft query
 
 When developing keyword searches for an academic database, you should combine multiple synonyms with Boolean operators to create a constructive query. Following this process step-by-step is crucial to make sure you do a thorough search of all available literature. Watch this short recap of the keyword search process:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n6SA4dQlJmE?si=50wsADHk9iM6nL-r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XnbdXkRPQk?si=ZXcRn1XUnmeLZET0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+"<a href="https://www.youtube.com/embed/8XnbdXkRPQk?si=ZXcRn1XUnmeLZET0" target=_blank>Keyword Searching</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 Once you have developed a strong query, you can use it to search for literature in academic databases. You can use general academic databases, such as Scopus or Web of Science, or you could use topic-specific databases (if available in your field of research).
 

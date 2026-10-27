@@ -2,6 +2,34 @@
 
 Next step in the analysis is synthesising, where you compare the different information you have found and connect your findings to your research question.  The key question in a synthesis is often: how do the resources you found and read relate to one another, in your interpretation and what variety of answers have you found for your information search questions?
 
+## Warning: The Use of AI for Synthesising Literature
+While the use of AI is very helpful for exploring your field, finding more sources and supporting selection and reading, it is risky to use AI to do the complete analysis of the selected papers for you. There are multiple reasons why it is better to synthesise the information yourself:
+
+````{tab-set}
+
+```{tab-item} Deskilling
+
+Having AI do your research limits your own learning process. Synthesising information is one of the key points where learning takes place. Synthesising the information yourself also helps you to get a better understanding of the topics you're working on. Relying on AI to do the synthesising of the literature you found limits the development of your critical thinking skills, as well as your mastering of your research subject.
+
+One practical way to think about AI and learning is to distinguish between useful friction and unnecessary friction. Useful friction is effort that contributes to learning. Just as muscles develop through physical effort, you develop knowledge, skills and judgement by working through meaningful challenges. If too much of that effort is taken over by AI, your literature review may still look good, but you will miss the learning process that gives the result its value.
+
+The skills needed for analysing your sources are examples of useful friction. When you are reading, summarising and synthesizing your findings, you practice the thinking and decision-making skills you need for your future career. In addition, by working through this useful friction you learn more about your topic. 
+
+```
+
+```{tab-item} Risk of bias / inaccuracies
+
+AI may introduce incorrect information or biased information. This is a common problem with AI tools. If you don't read and synthesise the literature yourself, there is a big risk that your analysis contains inaccuracies or simply doesn't make sense. Be reminded that AI tools don't think: they produce content based on prompts they receive and databases they are trained with. If you feed your sources to an AI, it doesn't understand the articles, and therefore will probably not be able to sysnthesise literature in a correct and meaningful way.
+
+```
+```{tab-item} Copyright issues
+
+When you are doing your analyses you may be working with copyrighted or sensitive information. It is unclear where the information will end up, as such it is not recommended to upload copyrighted information to AI tools.
+
+```
+
+````
+
 ::::{grid}
 :gutter: 1
 
@@ -54,34 +82,28 @@ Watch the video below to learn more about the standard practice of synthesising:
 
 If you want to learn more about this standard practice, have a look at **__TULIB PAGE__**
 
-## Warning: The Use of AI for Synthesising Literature
+## AI Assist 1: Have AI draft your literature matrix based on your notes, summaries and themes
 
-While the use of AI is very helpful for exploring your field, finding more sources and supporting selection and reading, it is risky to use AI to do the complete analysis of the selected papers for you. There are multiple reasons why it is better to synthesise the information yourself:
+AI can support the development of your synthesis matrix, based on the notes you made while you were reviewing your sources and your initial ideas for themes you want to address in your literature review. You can ask AI to put the information from your own notes in a draft synthesis matrix for you to work on further. 
 
-````{tab-set}
+It is good to realise that you will get the best results if you have made sure that your summaries are in a consistent format, and no information is missing. See section [4b: Summarising](4b-summarising.md)
 
-```{tab-item} Deskilling
+**Prompts**
 
-Having AI do your research limits your own learning process. Synthesising information is one of the key points where learning takes place. Synthesising the information yourself also helps you to get a better understanding of the topics you're working on. Relying on AI to do the synthesising of the literature you found limits the development of your critical thinking skills, as well as your mastering of your research subject.
+You are an expert reviewer of scientific literature on [topic]
+Create a synthesis matrix based on the research notes pasted below
+Use the following themes as rows [theme 1, theme 2, theme 3] and the source titles as columns
+For each theme, list if it is covered or not, and if it is covered, and what it says about the theme
+Create a final column called "my conclusions" and leave this blank
 
-One practical way to think about AI and learning is to distinguish between useful friction and unnecessary friction. Useful friction is effort that contributes to learning. Just as muscles develop through physical effort, you develop knowledge, skills and judgement by working through meaningful challenges. If too much of that effort is taken over by AI, your literature review may still look good, but you will miss the learning process that gives the result its value.
+## AI Assist 2: Use AI as a sparring partner to check your initial conclusions
+You are an expert reviewer of scientific literature on [topic]
+You are writing a literature review with the following research question: [research question]
+Below are the preliminary conclusions, based on the attached [notes or synthesis matrix]
+Check the conclusions for consistency with the research question and the input on the notes. 
+List any potential issues with the conclusions in a bulleted list.
+Attach or paste below: [conclusions][notes or synthesis matrix]
 
-The skills needed for analysing your sources are examples of useful friction. When you are reading, summarising and synthesizing your findings, you practice the thinking and decision-making skills you need for your future career. In addition, by working through this useful friction you learn more about your topic. 
-
-```
-
-```{tab-item} Risk of bias / inaccuracies
-
-AI may introduce incorrect information or biased information. This is a common problem with AI tools. If you don't read and synthesise the literature yourself, there is a big risk that your analysis contains inaccuracies or simply doesn't make sense. Be reminded that AI tools don't think: they produce content based on prompts they receive and databases they are trained with. If you feed your sources to an AI, it doesn't understand the articles, and therefore will probably not be able to sysnthesise literature in a correct and meaningful way.
-
-```
-```{tab-item} Copyright issues
-
-When you are doing your analyses you may be working with copyrighted or sensitive information. It is unclear where the information will end up, as such it is not recommended to upload copyrighted information to AI tools.
-
-```
-
-````
 
 
 ## References

@@ -29,7 +29,8 @@ Formulating a research question means defining specifically the who, what, where
 Watch the video "Developing a Research Question" from Wilfrid Laurier University Library for an overview of the process of formulating a research question.<br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1oJNO6PYZe4?si=baHKXxD9FNXxiVwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
-"<a href="https://www.youtube.com/watch?v=1oJNO6PYZe4" target=_blank>Developing a Research Question</a>" by <a href="https://www.youtube.com/@laurierlibrarian" target=_blank>Wilfrid Laurier University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://www.youtube.com/watch?v=1oJNO6PYZe4" target=_blank>Developing a Research Question</a>" by <a href="https://www.youtube.com/@laurierlibrarian" target=_blank>Wilfrid Laurier University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC BY</a>.<br><br>
+
 Need more information? Check out the guide "Formulating a Research Question" from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
 
 ## AI Assist: Revising Your Draft Research Question

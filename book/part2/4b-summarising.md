@@ -86,7 +86,7 @@ Have a look at the relevant parts of <a href="https://www.youtube.com/watch?v=FO
 :class: dropdown tip
 
 **Step 1: Choose a Tool**
-Work with NotebookLM and one general AI tool
+- Work with NotebookLM and one general AI tool
 
 **Step 2: Upload Your Notes**  
 - Choose relevant sources from your reading list.  

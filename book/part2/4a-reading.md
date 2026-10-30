@@ -48,7 +48,7 @@ When you are scanning or close reading a text, you may encounter terms, methods 
 :class: dropdown note
 You are an expert science communicator in the field of [topic]. You are explaining concepts from the field to a [x year] student. Explain in 3-4 sentences the concept of [term not understood yet]. After this, provide a more detailed explanation, including one example and one common misconception.
 ```
-Prompts and explanations adapted from <a href="https://www.tudelft.nl/teaching-support/educational-training/continuing-professional-development/ai-literacy-for-lecturers" target=_blank>AI Literacy for Lecturers</a> by Teaching and Learning Services, TU Delft is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA-4.0</a><br><br>
+Prompts and explanations adapted from <a href="https://www.tudelft.nl/teaching-support/educational-training/continuing-professional-development/ai-literacy-for-lecturers" target=_blank>"AI Literacy for Lecturers"</a> by Teaching and Learning Services, TU Delft is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA-4.0</a><br><br>
 
 ```{warning}
 It may be tempting to have AI do all your reading and note-taking for you. However, for your own critical skill development, understanding of the topic and an accurate analysis, it is better to read the key articles yourself. By prioritising your reading order, reserving close reading only for sources key to your project and applying proper reading strategies you can save yourself a lot of time as you go through the process.

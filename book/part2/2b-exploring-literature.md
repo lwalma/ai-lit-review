@@ -52,7 +52,7 @@ Academic AI tools will often ask you to create an account and will provide you w
 Research tools like Consensus, Elicit and Perplexity Pro search open access scientific literature (often via <a href="https://www.semanticscholar.org" target="_blank">Semantic Scholar</a>). Results from these academic AI tools therefore do not include non-open access sources found in traditional databases like Scopus, Dimensions and Web of Science. It is therefore important to use academic AI tools **in addition to** traditional databases, rather than as a replacement of these databases.
 ```
 
-You can use academic AI tools to find key research questions to explore in your topic:
+You can use academic AI tools to find research directions to explore in your topic:
 
 ```{admonition} Example Prompt
 :class: dropdown note

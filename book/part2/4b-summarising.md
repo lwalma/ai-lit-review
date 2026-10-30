@@ -31,7 +31,7 @@ Have AI tools summarise your notes into various formats to help your analysis.
 
 ## Recap Standard Practice: Identify basic components of a source and choose a summary format
 
-###Identify Basic Components
+### Identify Basic Components
 
 When creating a summary, you can choose from a wide variety of formats, but there are some basic components that should always be included:
 - Bibliographical information, for example, author, publication, year. All the details you need to include to relocate the source later in your project. This can also help you when referencing.
@@ -42,7 +42,7 @@ When creating a summary, you can choose from a wide variety of formats, but ther
 - Limitations of the study
 - Implications of the findings
 
-###Selecting a Format
+### Selecting a Format
 
 Summaries can come in many formats. Depending on your purpose and on how detailed you need to summarise and analyse the source, they can be more or less elaborate.
 
@@ -114,7 +114,7 @@ Follow along with <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q" target=_
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Summarise Sources | Make sure you have all necessary components | Use AI to check if you have included all the necessary information to start summarising | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert reviewer of scientific literature on [topic]. Check notes in the attached file if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing. |
+| Summarise sources | Make sure you have all necessary components | Use AI to check if you have included all the necessary information to start summarising | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert reviewer of scientific literature on [topic]. Check notes in the attached file if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing. |
 |  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a textual summary | General tools, e.g. Copilot, ChatGPT, Claude| You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings.  |
 |  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a multimedia summary | NotebookLM | Upload source to tool and generate audio or video summary.  |
 

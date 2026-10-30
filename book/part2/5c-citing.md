@@ -31,7 +31,7 @@ If you are working with a limited amount of sources, you can use tools, such as 
 If you are working with a large number of sources, it is efficient to use a reference manager to manage and cite your sources in the format of your choice. Have a look at this video to learn more about how to use these tools:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/e7b388c4c74c485c84190c2f09a7ba3e1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"Storing References" by TU Delft Library Education Support is licensed CC-BY
+"Storing References" by TU Delft Library Education Support is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>.
 
 ```{warning}
 Carefully check if your reference list includes **all** sources that you refer to in the text (and no sources you do not refer to). Also make sure to always carefully read the source before citing it to make sure you do justice to its content.

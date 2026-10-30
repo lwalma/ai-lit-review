@@ -18,13 +18,13 @@ Gather relevant bibliographic information and summarise using a format of your c
 :gutter: 2
 
 :::{grid-item-card} AI Assist 1<br>
-[AI Assist 1: Have AI Check If You Have All Basic Components for Your Sources](#ai-assist-1-have-AI-check-if-you-have-all-basic-components-for-your-sources)<br>
-
+[Have AI Check If You Have All Basic Components for Your Sources](#ai-assist-1-have-ai-check-if-you-have-all-basic-components-for-yoursources)<br>
+Use AI tools to verify that you have included all the necessary information for a summary.
 :::
 
 :::{grid-item-card} AI Assist 2<br>
-[AI assist 2: Have AI Organise Your Notes into a Preferred Summary Format](#ai-assist-2-have-ai-organise-your-notes-into-a-preferred-summary-format)<br>
-
+[Have AI Organise Your Notes into a Preferred Summary Format](#ai-assist-2-have-ai-organise-your-notes-into-a-preferred-summary-format)<br>
+Have AI tools summarise your notes into various formats to help your analysis.
 :::
 
 ::::
@@ -60,7 +60,7 @@ Before you start summarising you sources, it can be helpful to check if you have
 
 ```{admonition} Example Prompt
 :class: dropdown note
-You are an expert reviewer of scientific literature on [topic]. Check notes in the attached file if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information is missing in a table, describing in 1-2 sentences what information is missing.
+You are an expert reviewer of scientific literature on [topic]. Check notes in the attached file if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing.
 ```
 
 ```{warning}
@@ -114,9 +114,9 @@ Follow along with <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q" target=_
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Summarise Sources | Scanning, Reading and Notetaking | Generate Initial Summaries of Your Sources | Local-Input Tools e.g. NotebookLM, <span>docanalyzer.ai</span> | Upload source to tool and generate summary |
-|  |  | Generate Audio or Video Summaries | NotebookLM | Upload source to tool and generate audio or video summary  |
-
+| Summarise Sources | Make sure you have all necessary components | Use AI to check if you have included all the necessary information to start summarising | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert reviewer of scientific literature on [topic]. Check notes in the attached file if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing. |
+|  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a textual summary | General tools, e.g. Copilot, ChatGPT, Claude| You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings.  |
+|  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a multimedia summary | NotebookLM | Upload source to tool and generate audio or video summary.  |
 
 ## References
 - Stapleton, A (2025, January 2). _The NEW NotebookLM Features Researchers Are Raving About_ [Video]. <a href="https://www.youtube.com/watch?v=w7PA9kSJLlo" target="_blank">https://www.youtube.com/watch?v=w7PA9kSJLlo</a>

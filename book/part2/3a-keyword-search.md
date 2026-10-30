@@ -46,35 +46,18 @@ While general tools can develop queries from scratch, it is recommended to draft
 ```{admonition} Guided Activity: Refine Your Draft Query
 :class: dropdown tip
 
-Use this activity to practice using _general AI tools_ to refine your keyword search
+**Step 1.** Based on your research question, create a draft search query (without AI!).
 
-**Step 1: Write Your Initial Keyword Search**
+**Step 2.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.
 
-Based on your research question, create a first attempt at a keyword search.
+**Step 3.** Ask the tool to give suggestions to improve your draft query. You can use the following prompt (and adjust where necessary):
 
-**Step 2: Prompt the Tools**
+_You are an expert in information literacy and research methods. I am working on a literature review paper on [topic]. I want to search [database] for research articles on [research question]. My current query is: "[draft query]". Expand the keywords and design a more constructive query. After presenting the improved query, give a short explanation on why this makes a stronger query._
 
-Select one or more general AI tools (for example):
-
-- Copilot
-- Claude
-- ChatGPT
-
-Use a structured prompt to guide the tool.
-
-Example prompt to copy-paste into the general purpose tool:
-
-_I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I want to search [database] for research articles on [research question]. My current query is: [draft query]. Expand the keywords and design a more constructive query._
-
-Fill in the brackets with your own information.
-
-**Step 3: Compare and Reflect**
-
-Look at the expanded list of keywords or revised query suggested by the tool.
-
-1. Which new synonyms or related terms did it add?
-2. Are there subject-specific or technical terms you hadn’t thought of?
-3. Which suggestions are useful, and which might lead you away from your topic?
+**Step 4.** Evaluate the outcome:
+- Which new synonyms or related terms did it add?
+- Are there subject specific or technical terms you hadn’t thought of?
+- Which suggestions are useful and which might lead you away from your topic?
 ```
 
 ## Summary and Prompts

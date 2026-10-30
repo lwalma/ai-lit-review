@@ -27,7 +27,7 @@ In addition, you might be asked to also include:
 - The prompt you used
 - How you used the output
 
-For more information on the different types of AI use that are commonly reported for scientific research, as well as a tool to make example formats, you can visit the <a href="https://panbibliotekar.github.io/gaidet-declaration/index.html" target="_blank">Generative AI Delegation Taxonomy Declaration Creator</a>
+For more information on the different types of AI use that are commonly reported for scientific research, as well as a tool to make example formats, you can visit the <a href="https://panbibliotekar.github.io/gaidet-declaration/index.html" target="_blank">Generative AI Delegation Taxonomy Declaration Creator</a>.
 
 ```{admonition} Example Statement
 :class: note

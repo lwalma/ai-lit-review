@@ -48,7 +48,7 @@ You are an expert in information literacy and research methods. I am writing a l
 
 ```
 
-```{admonition} Guided Activity: Use General Tools to Sort Your Initial Results for Screening
+```{admonition} Guided Activity: Sort Your Initial Results with General AI tools
 :class: dropdown tip
 
 **Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.

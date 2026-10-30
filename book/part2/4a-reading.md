@@ -69,6 +69,12 @@ _You are an expert science communicator in the field of [topic]. You are explain
 **Step 4.** Include the explanation of the term, method or theory in your own notes.
 ```
 
+## Summary and Prompts
+
+| Task | Standard Practice | AI Assist | Tools | Example Prompts |
+|-|-|-|-|-|
+| Reading Sources | Decide your Reading Order, Close Read and Take Notes | Ask AI to Clarify Unclear Terms, Methods or Theories | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert science communicator in the field of [topic]. You are explaining concepts from the field to a [x year] student. Explain in 3-4 sentences the concept of [term not understood yet]. After this, provide a more detailed explanation, including one example and one common misconception. |
+
 ## References
 - Tay, A. (2024, November 18). _Why use of new AI enhanced tools that help with literature review should be discouraged for undergraduates_. Musings About Librarianship. <a href="https://musingsaboutlibrarianship.blogspot.com/2024/11/why-use-of-new-ai-enhanced-tools-that.html" target="_blank">https://musingsaboutlibrarianship.blogspot.com/2024/11/why-use-of-new-ai-enhanced-tools-that.html</a>
 - TU Delft Library Education Support. (n.d.). _Managing your information_. TUlib. Retrieved September 3, 2025, from <a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target="_blank">https://www.tudelft.nl/tulib/managing-your-information/reading-for-research</a>

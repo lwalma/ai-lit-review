@@ -37,8 +37,7 @@ After you’ve decided on your reading order, it is time to actually start readi
 Have a look at the video below from PittCCLibrary to learn more about the different sections of a scholarly article to focus on while reading:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
-"<a href="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" target=_blank>How to Read a Scholarly Article</a>" by <a href="https://www.youtube.com/@PittCCLibrary" target=_blank>PittCCLibrary</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
-
+"<a href="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" target=_blank>How to Read a Scholarly Article</a>" by <a href="https://www.youtube.com/@PittCCLibrary" target=_blank>PittCCLibrary</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 If you want to learn more about this standard practice, have a look at the TULib page on "<a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target=_blank>Reading for Research</a>".
 

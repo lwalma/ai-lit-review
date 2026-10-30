@@ -77,7 +77,7 @@ Although the models are improving, LLMs don’t stand out for their reasoning sk
 
 ```{admonition} Example Prompt
 :class: dropdown note 
-You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br>
+You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-5 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br>
 Text: "[your draft section]"
 ```
 
@@ -90,7 +90,7 @@ Text: "[your draft section]"
 
 **Step 3.** Ask the AI to develop critical questions and counterarguments. You can use the following prompt (and adjust it where necessary):
 
-_You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br>
+_You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-5 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br>
 Text: "[your draft section]"_
 
 **Step 4.** Evaluate the outcome:
@@ -106,7 +106,7 @@ Step 5: Improve your text based on the outcome of the previous steps.
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-| 
 | Drafting your text | Write and structure a first version of your text | Use AI to help you make an outline for your text | General tools, e.g. Copilot, ChatGPT | You are an expert in scientific writing. I am writing a literature review paper about [topic]. My research question is: [research question]. The text has to follow the IMRD structure. Create a detailed outline for the literature review paper and define for each section what could be discussed.|
-| | | Use AI as sparring partner to create stronger arguments | General tools, e.g. Copilot, ChatGPT | You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br> Text: "[your draft section]"|
+| | | Use AI as sparring partner to create stronger arguments | General tools, e.g. Copilot, ChatGPT | You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-5 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br> Text: "[your draft section]"|
 
 ## References
 

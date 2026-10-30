@@ -2,34 +2,6 @@
 
 Next step in the analysis is synthesising, where you compare the different information you have found and connect your findings to your research question.  The key question in a synthesis is often: how do the resources you found and read relate to one another, in your interpretation and what variety of answers have you found for your information search questions?
 
-## Warning: The Use of AI for Synthesising Literature
-While the use of AI is very helpful for exploring your field, finding more sources and supporting selection and reading, it is risky to use AI to do the complete analysis of the selected papers for you. There are multiple reasons why it is better to synthesise the information yourself:
-
-````{tab-set}
-
-```{tab-item} Deskilling
-
-Having AI do your research limits your own learning process. Synthesising information is one of the key points where learning takes place. Synthesising the information yourself also helps you to get a better understanding of the topics you're working on. Relying on AI to do the synthesising of the literature you found limits the development of your critical thinking skills, as well as your mastering of your research subject.
-
-One practical way to think about AI and learning is to distinguish between useful friction and unnecessary friction. Useful friction is effort that contributes to learning. Just as muscles develop through physical effort, you develop knowledge, skills and judgement by working through meaningful challenges. If too much of that effort is taken over by AI, your literature review may still look good, but you will miss the learning process that gives the result its value.
-
-The skills needed for analysing your sources are examples of useful friction. When you are reading, summarising and synthesizing your findings, you practice the thinking and decision-making skills you need for your future career. In addition, by working through this useful friction you learn more about your topic. 
-
-```
-
-```{tab-item} Risk of bias / inaccuracies
-
-AI may introduce incorrect information or biased information. This is a common problem with AI tools. If you don't read and synthesise the literature yourself, there is a big risk that your analysis contains inaccuracies or simply doesn't make sense. Be reminded that AI tools don't think: they produce content based on prompts they receive and databases they are trained with. If you feed your sources to an AI, it doesn't understand the articles, and therefore will probably not be able to sysnthesise literature in a correct and meaningful way.
-
-```
-```{tab-item} Copyright issues
-
-When you are doing your analyses you may be working with copyrighted or sensitive information. It is unclear where the information will end up, as such it is not recommended to upload copyrighted information to AI tools.
-
-```
-
-````
-
 ::::{grid}
 :gutter: 1
 
@@ -44,12 +16,12 @@ When you are doing your analyses you may be working with copyrighted or sensitiv
 :gutter: 2
 
 :::{grid-item-card} AI Assist 1<br>
-[](#)<br>
+[Have AI draft your literature matrix based on your notes, summaries and themes](#ai-assist-1-have-ai-draft-your-literature-matrix-based-on-your-notes-summaries-and-themes)<br>
 
 :::
 
 :::{grid-item-card} AI Assist 2<br>
-[](#)<br>
+[AI Assist 2: Use AI as a sparring partner to check your initial conclusions](#ai-assist-2-use-ai-as-a-sparring-partner-to-check-your-initial-conclusions)<br>
 
 :::
 
@@ -82,32 +54,74 @@ Watch the video below to learn more about the standard practice of synthesising:
 
 If you want to learn more about this standard practice, have a look at **__TULIB PAGE__**
 
+The process of synthesising is a key point where learning takes place, and you should be mindful not to outsource this part to AI tools. One practical way to think about AI and learning is to distinguish between useful friction and unnecessary friction. Useful friction is effort that contributes to learning. Just as muscles develop through physical effort, you develop knowledge, skills and judgement by working through meaningful challenges (Teaching and Learning Services, TU Delft, 2026). If too much of that effort is taken over by AI, your literature review may still look good, but you will miss the learning process that gives the result its value. The skills needed for synthesising (and reading and summarising) are examples of this useful friction. When you are reading, summarising and synthesizing your findings, you practice the thinking and decision-making skills you need for your future career. In addition, by working through this useful friction you become more of an expert in your topic.
+
 ## AI Assist 1: Have AI draft your literature matrix based on your notes, summaries and themes
 
 AI can support the development of your synthesis matrix, based on the notes you made while you were reviewing your sources and your initial ideas for themes you want to address in your literature review. You can ask AI to put the information from your own notes in a draft synthesis matrix for you to work on further. 
 
-It is good to realise that you will get the best results if you have made sure that your summaries are in a consistent format, and no information is missing. See section [4b: Summarising](4b-summarising.md)
+You will get the best results if you have made sure that your summaries are in a consistent format and no information is missing. See also section [4b: Summarising](4b-summarising.md)
 
-**Prompts**
+```{admonition} Example Prompt
+:class: dropdown note
+You are an expert reviewer of scientific literature on [topic]. Create a synthesis matrix based on the research notes pasted below. Use the following themes as rows [theme 1, theme 2, theme 3] and the source titles as columns. For each theme, list if it is covered or not, and if it is covered, and what it says about the theme. Create a final column called "my conclusions" and leave this blank.
+[attach or paste notes].
+```
 
-You are an expert reviewer of scientific literature on [topic]
-Create a synthesis matrix based on the research notes pasted below
-Use the following themes as rows [theme 1, theme 2, theme 3] and the source titles as columns
-For each theme, list if it is covered or not, and if it is covered, and what it says about the theme
-Create a final column called "my conclusions" and leave this blank
+```{admonition} Guided Activity: Have AI draft your literature matrix based on your notes, summaries and themes
+:class: dropdown note
+**Step 1. Choose a general AI tool**
+You can use for example Copilot, ChatGPT, Perplexity, Gemini or Claude. Or use NotebookLM
+
+**Step 2. Select the information for your synthesis matrix**
+Select the notes, summaries and themes you would like the AI to put into a literature matrix
+
+**Step 3. Ask the AI to create the synthesis matrix.**
+You can use the following prompt (and adjust it where necessary):
+
+You are an expert reviewer of scientific literature on [topic]. Create a synthesis matrix based on the research notes pasted below. Use the following themes as rows [theme 1, theme 2, theme 3] and the source titles as columns. For each theme, list if it is covered or not, and if it is covered, and what it says about the theme. Create a final column called "my conclusions" and leave this blank.
+[attach or paste notes].
+
+**Step 4. Evaluate the output:**
+- Is the literature matrix useful?
+- Has the AI tool included the correct information from your notes?
+- How could you build further on this matrix?
+```
 
 ## AI Assist 2: Use AI as a sparring partner to check your initial conclusions
-You are an expert reviewer of scientific literature on [topic]
-You are writing a literature review with the following research question: [research question]
-Below are the preliminary conclusions, based on the attached [notes or synthesis matrix]
-Check the conclusions for consistency with the research question and the input on the notes. 
-List any potential issues with the conclusions in a bulleted list.
-Attach or paste below: [conclusions][notes or synthesis matrix]
+You could use a general AI tool to check your initial conclusions and see if there is anything missing. Rather than copying the suggested improvements from the AI, we recommend you use the tool as a sparring partner to ask critical questions, and help furher shape your conclusions (Subwerkgroep AI literacy (UKB/SHB), 2026). Be reminded that AI tools don't think: they produce content based on prompts they receive and databases they are trained with. The feedback the tool gives can therefore be helpful, but your own ideas and analysis should be in the lead.
 
+```{admonition} Example Prompt
+:class: dropdown note
+You are an expert reviewer of scientific literature on [topic]. You are writing a literature review with the following research question: [research question]. Below are the preliminary conclusions, based on the attached [notes or synthesis matrix]. Check the conclusions for consistency with the research question and the input on the notes. List any potential issues with the conclusions in a bulleted list.
+[attach or paste notes, matrix or conclusions].
+```
 
+```{admonition} Guided Activity: Have AI draft your literature matrix based on your notes, summaries and themes
+:class: dropdown note
+**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT, Perplexity, Gemini or Claude. Or use NotebookLM
+
+**Step 2.** Select the draft conclusion you would like feedback on and your accompanying literature matrix or research notes
+
+**Step 3.** Ask the AI to evaluate your conclusions. You can use the following prompt (and adjust it where necessary): 
+You are an expert reviewer of scientific literature on [topic]. You are writing a literature review with the following research question: [research question]. Below are the preliminary conclusions, based on the attached [notes or synthesis matrix]. Check the conclusions for consistency with the research question and the input on the notes. List any potential issues with the conclusions in a bulleted list, including 1-2 sentences on why there is a issue with the conclusion.
+[attach or paste notes, matrix or conclusions].
+
+**Step 4. Reflect on the output:**
+- Do you agree with the feedback given by the AI?
+- How can you use this feedback to further develop your conclusions?
+```
+
+## Summary and Prompts
+
+| Task | Standard Practice | AI Assist | Tools | Example Prompts |
+|-|-|-|-|-|
+| Organise Your Findings and Compare Sources | Organise Your Findings in a Synthesis Matrix | Ask AI to draft your literature matrix based on your notes, summaries and themes | General tools, e.g. Copilot, ChatGPT Claude, Gemini | You are an expert reviewer of scientific literature on [topic]. Create a synthesis matrix based on the research notes pasted below. Use the following themes as rows [theme 1, theme 2, theme 3] and the source titles as columns. For each theme, list if it is covered or not, and if it is covered, and what it says about the theme. Create a final column called "my conclusions" and leave this blank.
+[attach or paste notes] |
+| Draft your Conclusions | Compare the information in the Synthesis Matrix and Write down your initial conclusions | Ask AI to review your draft conclusions | General tools, e.g. Copilot, ChatGPT Claude, Gemini | You are an expert reviewer of scientific literature on [topic]. You are writing a literature review with the following research question: [research question]. Below are the preliminary conclusions, based on the attached [notes or synthesis matrix]. Check the conclusions for consistency with the research question and the input on the notes. List any potential issues with the conclusions in a bulleted list, including 1-2 sentences on why there is a issue with the conclusion. [attach or paste notes, matrix or conclusions] |
 
 ## References
-
-- TU Delft Library Education Support. (n.d.). _Managing your information_. TUlib. Retrieved September 3, 2025, from <a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target="_blank">https://www.tudelft.nl/tulib/managing-your-information/reading-for-research</a>
-- Zhao, A. (n.d.). _LibGuides: Emerging AI Tools for Literature Review: Overview_. Retrieved June 17, 2025, from <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/overview" target="_blank">https://libguides.hkust.edu.hk/AI-tools-literature-review/overview</a>
-- <a href="https://www.tudelft.nl/teaching-support/educational-training/continuing-professional-development/ai-literacy-for-lecturers" target=_blank>AI Literacy for Lecturers</a> by Teaching and Learning Services, TU Delft is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA-4.0</a>
+- Subwerkgroep AI literacy (UKB/SHB). (2026, June 22). AI-wijs: Verantwoord informatie zoeken en beoordelen. <a href="https://maken.wikiwijs.nl/216421/AI_wijs__verantwoord_informatie_zoeken_en_beoordelen" target=_blank>https://maken.wikiwijs.nl/216421/AI_wijs__verantwoord_informatie_zoeken_en_beoordelen</a>
+- TU Delft Library Education Support. (n.d.). _Managing your information_. TUlib. <a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target="_blank">https://www.tudelft.nl/tulib/managing-your-information/reading-for-research</a>
+- Teaching and Learning Services, TU Delft. (2026). AI literacy for lecturers. TU Delft. <a href="https://www.tudelft.nl/teaching-support/educational-training/continuing-professional-development/ai-literacy-for-lecturers" target=_blank>AI Literacy for Lecturers</a>
+- Zhao, A. (2025). _LibGuides: Emerging AI Tools for Literature Review: Overview_. <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/overview" target="_blank">https://libguides.hkust.edu.hk/AI-tools-literature-review/overview</a>

@@ -6,36 +6,31 @@ Analysing the literature you found starts with reading the sources you chose to 
 :gutter: 1
 
 :::{grid-item-card} Standard Practice <br>
-[Decide Your Reading Order, Scan, Close Read and Take Notes](#recap-standard-practice-scanning-reading-and-note-taking)<br>
-Scan the source, followed by more in-depth reading and summarising
+[Decide Your Reading Order, Scan, Close Read and Take Notes](#recap-standard-practice-decide-your-reading-order-close-read-and-take-notes)<br>
+Scan the sources, prioritise which to read, followed by close reading
 :::
 
 ::::
 
 ::::{grid}
-:gutter: 2
+:gutter: 1
 
-:::{grid-item-card} AI Assist 1<br>
-[Ask AI to Provide you with Definitions of General Terms you do not Understand Yet](#ai-assist-1-generate-initial-summaries-of-your-sources)<br>
-Support your reading and summarising process with AI summaries of your source
-:::
-
-:::{grid-item-card} AI Assist 2<br>
-[Generate Audio or Video Summaries](#ai-assist-2-generate-audio-or-video-summaries)<br>
-Support your reading and summarising with AI-generated audio or video summaries of your sources
+:::{grid-item-card} AI Assist<br>
+[AI Assist: Use General AI to Explain Unclear Terms, Methods or Theories](#ai-assist-ask-ai-to-explain-unclear-terms-methods-or-theories)<br>
+Support your reading with AI explanations of unfamiliar concepts
 :::
 
 ::::
 
 ## Recap Standard Practice: Decide Your Reading Order, Close Read and Take Notes
 
-When analysing your sources, you often first do a quick scan of all of them to **decide the best order** to read them. Based on what you already know about your topic, your information search questions and how much time you have, you decide which sources you will first read in more detail. 
+When analysing your sources, you often first do a quick scan of all of them to **decide the best order** to read them. Based on what you already know about your topic, your research questions and how much time you have, you decide which sources you will read in more detail, and which you will read first. 
 
 After you’ve decided on your reading order, it is time to actually start reading. You can use the following steps to support your **close reading journey**:
 
 1. **Prepare Your Close Reading**: Set up an optimal reading environment to help you focus and define with what purpose you are reading a source, read the _abstract_, _introduction_, _discussion_ and _conclusion_ first makes it easier to understand the contents and goals of the source before you dive further into it
 
-2. **Close Reading & Notetaking**: After scanning the source, you read the source in more detail with critical questions in mind, and you can also do some notetaking
+2. **Close Reading & Notetaking**: After scanning the source, you read the sources that are key to your project in more detail with critical questions in mind, and you should also do some notetaking
 
 3. **Update Your Search Strategy**: As you close read relevant articles your ideas will likely evolve and you may need to adapt your search strategy
 
@@ -44,13 +39,41 @@ Have a look at the video below from PittCCLibrary to learn more about the differ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 "<a href="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" target=_blank>How to Read a Scholarly Article</a>" by <a href="https://www.youtube.com/@PittCCLibrary" target=_blank>PittCCLibrary</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
 
-If you want to learn more about this standard practice, have a look at **__TULIB PAGE__**
+If you want to learn more about this standard practice, have a look at the TULib page on "<a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target=_blank>Reading for Research</a>"
 
+## AI Assist: Use General AI to Explain Unclear Terms, Methods or Theories
+When you are scanning or close reading a text, you may encounter terms, methods or theories that you are unfamiliar with. This can happen for example when you are learning about a new topic, or entering a new research field. You can use general AI tools to support your reading process by asking it to explain these terms more clearly. 
 
+```{admonition} Example Prompt
+:class: dropdown note
+You are an expert science communicator in the field of [topic]. You are explaining concepts from the field to a [x year] student. Explain in 3-4 sentences the concept of [term not understood yet]. After this, provide a more detailed explanation, including one example and one common misconception.
+```
+Prompts and explanations adapted from <a href="https://www.tudelft.nl/teaching-support/educational-training/continuing-professional-development/ai-literacy-for-lecturers" target=_blank>AI Literacy for Lecturers</a> by Teaching and Learning Services, TU Delft is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA-4.0</a><br><br>
+
+```{warning}
+While it may be tempting to have AI do all your reading and notetaking for you, for your own critical skill development, understanding of the topic and an accurate analysis, it is better to read the key articles yourself. By prioritising your reading order, reserving close reading only for sources key to your project, and applying proper reading strategies you can save yourself a lot of time as you go through the process.
+```
+
+```{admonition} Guided Activity: Use General AI to Explain Unclear Terms, Methods or Theories
+:class: dropdown tip
+**Step 1.** Choose **two** of the following general AI-tools:
+- Copilot 
+- ChatGPT
+- Perplexity
+- Gemini
+- Claude
+
+**Step 2.** Ask both tools the same question about a term you are unfamiliar with. You can use the following example prompt:
+You are an expert science communicator in the field of [topic]. You are explaining concepts from the field to a [x year] student. Explain in 3-4 sentences the concept of [term not understood yet]. After this, provide a more detailed explanation, including one example and one common misconception.
+
+**Step 3.** Compare and evaluate the outcome:
+- What are the main similarities and differences between the two suggested outlines?
+- Which explanation did you find more helpful?
+
+**Step 4.** Write down in your own notes the explanation of the method, theory or concept.
+```
 
 ## References
-- Stapleton, A (2025, January 2). _The NEW NotebookLM Features Researchers Are Raving About_ [Video]. <a href="https://www.youtube.com/watch?v=w7PA9kSJLlo" target="_blank">https://www.youtube.com/watch?v=w7PA9kSJLlo</a>
-- Teacher’s Tech (2025, August 1). _The Ultimate Guide to NotebookLM - All 2025 Features Explained_ [Video]. <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q" target="_blank">https://www.youtube.com/watch?v=FOs4RDTC52Q</a>
 - Tay, A. (2024, November 18). _Why use of new AI enhanced tools that help with literature review should be discouraged for undergraduates_. Musings About Librarianship. <a href="https://musingsaboutlibrarianship.blogspot.com/2024/11/why-use-of-new-ai-enhanced-tools-that.html" target="_blank">https://musingsaboutlibrarianship.blogspot.com/2024/11/why-use-of-new-ai-enhanced-tools-that.html</a>
 - TU Delft Library Education Support. (n.d.). _Managing your information_. TUlib. Retrieved September 3, 2025, from <a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target="_blank">https://www.tudelft.nl/tulib/managing-your-information/reading-for-research</a>
 - Zhao, A. (n.d.). _LibGuides: Emerging AI Tools for Literature Review: Overview_. Retrieved June 17, 2025, from <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/overview" target="_blank">https://libguides.hkust.edu.hk/AI-tools-literature-review/overview</a>

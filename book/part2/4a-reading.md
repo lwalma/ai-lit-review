@@ -54,7 +54,7 @@ Prompts and explanations adapted from <a href="https://www.tudelft.nl/teaching-s
 It may be tempting to have AI do all your reading and note-taking for you. However, for your own critical skill development, understanding of the topic and an accurate analysis, it is better to read the key articles yourself. By prioritising your reading order, reserving close reading only for sources key to your project and applying proper reading strategies you can save yourself a lot of time as you go through the process.
 ```
 
-```{admonition} Guided Activity: Use General AI to Explain Unclear Terms, Methods or Theories
+```{admonition} Guided Activity: Use General AI Tools to Explain Unclear Concepts
 :class: dropdown tip
 **Step 1.** Choose **two** of the following general AI-tools: Copilot, ChatGPT, Claude, Gemini, Perplexity.
 

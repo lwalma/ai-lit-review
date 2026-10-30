@@ -51,19 +51,16 @@ You are an expert in information literacy and research methods. I am writing a l
 ```{admonition} Guided Activity: Use General Tools to Sort Your Initial Results for Screening
 :class: dropdown tip
 
-**Suggested Tools**: Copilot, Claude, Gemini, ChatGPT
+**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.
 
-**Step 1: Ask General AI Tool to Sort Your Results**
-Use the following example prompt in a general AI chatbot and to sort your articles before starting selection:
+**Step 2.** Ask the tool to sort your articles before you start selecting. You can use the following prompt (and adjust where necessary):
 
-Example Prompt:
-
-_I am a [x year] student in [study]. I am writing a literature review on [topic] with the following research question: [research question]. Attached is a file with all the sources that I found. Read the attached file, then make an organised list in their order of relevance to this question. Finally, make a table of this list including the name, authors, relevancy score and url leading directly to the location of the article.<br>
+_You are an expert in information literacy and research methods. I am writing a literature review on [topic] with the following research question: [research question]. Attached is a file with all the sources that I found. Read the attached file, then make an organised list in order of relevance to this question. Finally, make a table of this list including the name, authors, relevancy score and doi leading directly to the location of the article.<br>
 [attach a list from reference manager or specific database into tool]_
 
-**Step 2: Reflect on the Output**
-1. Did the AI’s ranking of articles match your own idea of which items were the most relevant to your research question? 
-2. Were there any highly relevant articles that were ranked lower than you expected?
+**Step 3.** Evaluate the outcome:
+- Did the AI’s ranking of articles match your own idea of which items were the most relevant to your research question? 
+- Were there any highly relevant articles that were ranked lower than you expected?
 ```
 
 ## AI Assist 2: Dynamically Sort Results while Selecting

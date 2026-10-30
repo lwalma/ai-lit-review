@@ -6,10 +6,10 @@ During the literature review process, there are multiple steps where you will wo
 
 ![Overview of the Literature Review process](overview-lit-review.png)
 
-1. **Explore**: explore your topic and define your research question(s)
-2. **Search**: search and select sources
-3. **Analyse**: analyse and synthesise findings from selected sources
-4. **Write**: write your text and cite sources
+1. **Explore**: Explore your topic and define your research question(s).
+2. **Search**: Search and select sources.
+3. **Analyse**: Analyse and synthesise findings from selected sources.
+4. **Write**: Write your text and cite sources.
 
 For each of these steps, AI tools can support the process. To be able to effectively use these tools, it is important to understand two types of GenAI tools: 
 - General tools
@@ -31,7 +31,7 @@ Depending on which task you need to perform for a literature review, you might n
 
 Some AI tools (both general and academic tools) allow you to work on specific documents you upload to a server or host on your computer. These tools are called **local-input tools**. Examples include NotebookLM, ChatPDF and ASReview. Local-input tools work well when you have specific sources you want to study, and can summarise specific information and extract the details. You can also upload specific documents to a general tool for analysis, but because they draw from their extensive knowledge base, the output the model provides can be less specific. In a tool that is designed to work with the sources you put in, you often have more control over the output.
 
-```{admonition} Uploading documents to AI tools
+```{admonition} Uploading Documents to AI Tools
 :class: warning
 Be mindful of the information you upload to AI tools: it is not allowed to upload sensitive or copyrighted materials into AI tools connected to servers. This is because it is unclear where the information you upload will end up. Things like uploading an academic article to NotebookLM to summarise or create a podcast, having ChatGPT analyse data you gathered in interviews or sharing someone's preliminary research ideas with Claude are generally not allowed, unless you have written permission from the authors or participants. Alternatively, you could consider using tools that run locally on your computer, like ASreview or Ollama.
 ```
@@ -68,7 +68,7 @@ It is important to be transparent about your use of AI throughout your project. 
 | Trained on / search open web | Trained on / search academic sources (often from Semantic Scholar) | Work with data provided by you |
 | General questions | Research questions | Specific questions related to specific sources |
 | Sources provided sometimes fake | Sources provided are real | Sources used are real
-| Examples:<br><br>• Copilot<br>• ChatGPT<br>• Gemini<br>• Claude | Examples:<br><br>• Elicit<br>• Consensus<br>• Undermind.ai<br>• LitMaps | Examples:<br><br>• NotebookLM<br> • ASReview<br>• ChatPDF<br> • Elicit |
+| Examples:<br><br>• Copilot<br>• ChatGPT<br>• Claude | Examples:<br><br>• Elicit<br>• Consensus<br>• ResearchRabbit | Examples:<br><br>• NotebookLM<br> • ASReview<br>• ChatPDF |
 
 ## References
 

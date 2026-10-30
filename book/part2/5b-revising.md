@@ -50,7 +50,7 @@ text: "[your draft section]"
 
 In addition to general AI tools, there are also academic writing feedback tools that have been developed recently, like <span>Winston.ai</span>. Note that these tools are often paid and that it is currently unclear if the quality of the feedback is up to academic standards (i.e., if it is better than general tools).
 
-```{admonition} Guided Activity: Ask AI for Feedback
+```{admonition} Guided Activity: Ask AI for Feedback on Your Text
 :class: dropdown tip
 
 **Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.
@@ -86,7 +86,7 @@ Once the AI has provided a few suggestions, you can build on one or more of them
 I think the suggestion about [suggestion] would be the most suitable for my text. Can you rewrite the section based on this suggestion for improvement? Below the rewritten section, give a detailed list in bullet points explaining the changes that you made.
 ```  
 
-```{admonition} Guided Activity: Use GenAI to Revise Your Text
+```{admonition} Guided Activity: Use General AI Tools to Revise Your Text
 :class: dropdown tip
 
 **Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.
@@ -121,7 +121,7 @@ You are a scientific editor. Below is a draft paragraph from my literature revie
 text: "[your draft paragraph]"
 ```
 
-```{admonition} Guided Activity: Use GenAI to Edit Your Text
+```{admonition} Guided Activity: Use General AI Tools to Edit Your Text
 :class: dropdown tip
 
 **Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.

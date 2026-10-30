@@ -39,7 +39,7 @@ Once you have formulated a research question, you can use general tools to refle
 ```{admonition} Example Prompt
 :class: dropdown note
 
-You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to improve this research question. Present the suggestions in a bulleted list. For each suggestion, explain how the research question can be adjusted and how that improves it.
+You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to improve this research question. Present the suggestions in a bullet list. For each suggestion, explain how the research question can be adjusted and how that improves it.
 ```
 
 If you are looking for specific improvements, you can make your prompt more specific. For example, if you already know that your research question is too broad, you ask for suggestions to make it more specific.
@@ -47,7 +47,7 @@ If you are looking for specific improvements, you can make your prompt more spec
 ```{admonition} Example Prompt
 :class: dropdown note
 
-You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to make this research question more specific. Present the suggestions in a bulleted list.
+You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to make this research question more specific. Present the suggestions in a bullet list.
 ```
 
 ```{admonition} Guided Activity: Develop a Research Question
@@ -66,7 +66,7 @@ Options
 
 Example Prompt:
 
-_I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I have developed the following research question: [draft research question]. Give me suggestions to improve the research questions. Present the suggestions in a bulleted list. For each suggestion, explain how the research question can be adjusted and how that improves it._
+_I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I have developed the following research question: [draft research question]. Give me suggestions to improve the research questions. Present the suggestions in a bullet list. For each suggestion, explain how the research question can be adjusted and how that improves it._
 
 **Step 3: Reflect**
 1. How did the AI tool’s version of your research question differ from your own draft?  
@@ -78,7 +78,7 @@ _I am a [x year] student in [study]. I am working on a literature review paper o
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Develop a research question | Define the who, what, where and why of your research, based on initial literature exploration | Ask tools to review your draft research question | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to improve this research question. Present the suggestions in a bulleted list. For each suggestion, explain how the research question can be adjusted and how that improves it. |
+| Develop a research question | Define the who, what, where and why of your research, based on initial literature exploration | Ask tools to review your draft research question | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to improve this research question. Present the suggestions in a bullet list. For each suggestion, explain how the research question can be adjusted and how that improves it. |
 
 ## References
 

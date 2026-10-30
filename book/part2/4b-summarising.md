@@ -8,7 +8,7 @@ It might be tempting to upload a research article into an AI tool and ask for a 
 :gutter: 1
 
 :::{grid-item-card} Standard Practice <br>
-[Identify basic components of a source and choose a summary format](#recap-standard-practice-scanning-reading-and-note-taking)<br>
+[Identify basic components of a source and choose a summary format](#recap-standard-practice-identify-basic-components-of-a-source-and-choose-a-summary-format)<br>
 Gather relevant bibliographic information, and summarise using a format of your choice
 :::
 
@@ -23,7 +23,7 @@ Gather relevant bibliographic information, and summarise using a format of your 
 :::
 
 :::{grid-item-card} AI Assist 2<br>
-[AI assist 2: Have AI organise your notes into a preferred summary format](#have-ai-organise-your-notes-into-a-preferred-summary-format)<br>
+[AI assist 2: Have AI organise your notes into a preferred summary format](#ai-assist-2-have-ai-organise-your-notes-into-a-preferred-summary-format)<br>
 
 :::
 

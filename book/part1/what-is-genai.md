@@ -11,7 +11,7 @@ In this analogy, the question written by the person outside the room is your pro
 About the rules: a lot of the GenAI tools that are currently thriving make use of Large Language Models (LLMs) that work based on word prediction. Watch the video below to learn more about how LLMs use word prediction to generate output.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eJlyPy_Q0h0?si=EA_-ZyetVWMR1LPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"How Do Large Language Models Work?" by ILLC Science is licensed CC-BY.<br><br>
+"<a href="https://www.youtube.com/watch?v=eJlyPy_Q0h0" target="_blank">How Do Large Language Models Work?</a>" by "<a href="https://www.youtube.com/@illcscience7479" target="_blank">ILLC Science</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>.<br><br>
 
 Different GenAI tools make use of different LLMs. For example, ChatGPT's LLM is called GPT. Microsoft's Copilot also uses GPT, but there are other LLMs as well, such as Google's Gemini or Anthropic's Claude. Since 2022, a lot of different versions of these LLMs have been launched, each version operating faster and more effective than the previous one. You can find a timeline of LLM releases on <a href="https://llm-release-dashboard.vercel.app/" target="_blank">this website</a>.
 

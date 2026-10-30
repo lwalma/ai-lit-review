@@ -59,29 +59,19 @@ As of February 2025 many of a lot of general AI tools have added the option to d
 ```{admonition} Guided Activity: Explore Topic with General AI Tools
 :class: dropdown tip
 
-Choose **two** of the following general AI tools:
-- Copilot
-- Gemini
-- ChatGPT
-- Claude
-- Perplexity
+**Step 1.** Choose **two** of the following general AI tools: Copilot, ChatGPT, Claude, Gemini, Perplexity.
 
-**Step 1: Prompt**
+**Step 2.** Ask both tools the same question. You can use the following example prompt (and adjust where necessary):
 
-Ask both tools the same question:
+_You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five specific research directions that are worth pursuing. Use your comprehensive database to identify interesting research gaps. Present the suggestions as a numbered list. For each suggestion, give a short description (3-5 sentences) explaining why the topic is relevant and what kinds of research questions could be explored._
 
-_You are a [x year] student in [study]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list._
-
-**Step 2: Compare Results**
+**Step 3.** Compare and evaluate the results from both tools:
+- What are the main similarities and differences between the suggestions from both tools?
 - Which ideas seem relevant or surprising?
 
-**Step 3: Deep Dive** (if the tool allows this)
+**Step 4.** Choose **one** of the tools you selected and switch to **deep reasoning mode**. Use the same prompt as in step 2.
 
-Choose **one** of the tools you selected and switch to **deep reasoning mode**. Use the same prompt as in step 1:
-
-_You are a [x year] student in [study]. You have to write a literature review paper about [general topic]. Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. Present the suggestions as a numbered list._
-
-**Step 4: Reflect**
+**Step 5.** Evaluate the outcome:
 - How long does the process take?
 - Is the response more detailed or better structured?
 - Do you trust the results? Why or why not?

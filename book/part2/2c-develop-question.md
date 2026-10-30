@@ -50,28 +50,20 @@ If you are looking for specific improvements, you can make your prompt more spec
 You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to make this research question more specific. Present the suggestions in a bullet list.
 ```
 
-```{admonition} Guided Activity: Develop a Research Question
+```{admonition} Guided Activity: Develop and Improve a Research Question
 :class: dropdown tip
 
-**Step 1: Develop your initial research question (without AI!)**
-Have a look at your exploration of academic literature. Identify the who, what, where and why of what you want to study.
+**Step 1.** Develop your initial research question (without AI!). Have a look at your exploration of academic literature. Identify the who, what, where and why of what you want to study.
 
-**Step 2: Use general AI tools to refine your draft research question**
+**Step 2.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.
 
-Select a general AI tool
-Options
-- Copilot
-- ChatGPT
-- Claude
+**Step 3.** Ask the tool to give suggestions to improve your draft research question. You can use the following prompt (and adjust where necessary):
 
-Example Prompt:
+_You are an expert in [research field]. I am working on a literature review paper on [topic]. I have developed the following research question: "[draft research question]". Give me suggestions to improve this research question. Present the suggestions in a bullet list. For each suggestion, explain how the research question can be adjusted and how that improves it._
 
-_I am a [x year] student in [study]. I am working on a literature review paper on [topic]. I have developed the following research question: [draft research question]. Give me suggestions to improve the research questions. Present the suggestions in a bullet list. For each suggestion, explain how the research question can be adjusted and how that improves it._
-
-**Step 3: Reflect**
-1. How did the AI tool’s version of your research question differ from your own draft?  
-2. Which of its suggestions made your question clearer, narrower, or more focused? 
-3. Which suggestions will you include?
+**Step 4.** Evaluate the outcome:
+- Which of the suggestions will make your research question clearer, narrower or more focused? 
+- Which suggestions will you include?
 ```
 
 ## Summary and Prompts

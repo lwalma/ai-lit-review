@@ -53,7 +53,7 @@ In addition to general AI tools, there are also academic writing feedback tools 
 ```{admonition} Guided Activity: Ask AI for Feedback
 :class: dropdown tip
 
-**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT, Perplexity, Gemini or Claude.
+**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.
 
 **Step 2.** Select a section from your paper that you would like to receive feedback about.
 
@@ -89,7 +89,7 @@ I think the suggestion about [suggestion] would be the most suitable for my text
 ```{admonition} Guided Activity: Use GenAI to Revise Your Text
 :class: dropdown tip
 
-**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT, Perplexity, Gemini or Claude.
+**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.
 
 **Step 2.** Select a section from your paper that you received some feedback about.
 
@@ -124,11 +124,11 @@ text: "[your draft paragraph]"
 ```{admonition} Guided Activity: Use GenAI to Edit Your Text
 :class: dropdown tip
 
-**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT, Perplexity, Gemini or Claude.
+**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude.
 
 **Step 2.** Select a paragraph from your paper that contains spelling/grammar errors or could be improved otherwise.
 
-**Step 3.** Ask the AI for suggestions to implement the feedback. You can use the following prompt (and adjust it where necessary): 
+**Step 3.** Ask the AI to edit your paragraph. You can use the following prompt (and adjust it where necessary): 
 
 _You are a scientific editor. Below is a draft paragraph from my literature review paper about [topic]. Rewrite the paragraph to improve the structure of the paragraph: make sure it starts with a clear topic sentence and that the rest of the paragraph elaborates on the topic sentence, with a good flow. Also correct any spelling, grammar and punctuation errors in the paragraph. The tone of the paragraph should be formal and suitable for an academic journal. The content of the paragraph may not be changed. Below the improved paragraph, explain the changes you made in bullet points so I can learn how to improve my writing.<br>
 text: "[your draft paragraph]"_
@@ -140,9 +140,9 @@ text: "[your draft paragraph]"_
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Revising and editing your text | Improve your text (both higher and lower order concerns) based on feedback you received or your own critical evaluation | Ask AI for feedback on your text | General tools, e.g. Copilot, ChatGPT | You are a scientific editor. Below is a draft section from my literature review paper about [topic]. Provide feedback on the structure and writing style of the text. Present the feedback in a bullet list. For each feedback point, explain what is wrong with my text and give me concrete suggestions on how to improve. <br> text: "[your draft section]"|
-| | | Revise your text with AI as sparring partner | General tools, e.g. Copilot, ChatGPT | You are a scientific editor. Below is a draft section from my literature review paper about [topic]. I received the following feedback about this section: [feedback]. Give a bulleted list of 5 suggestions how I can implement this feedback in my text. <br> text: "your draft section"|
-| | | Edit your text with AI | General tools, e.g. Copilot, ChatGPT | You are a scientific editor. Below is a draft paragraph from my literature review paper about [topic]. Rewrite the paragraph to improve the structure of the paragraph: make sure it starts with a clear topic sentence and that the rest of the paragraph elaborates on the topic sentence, with a good flow. Also correct any spelling, grammar and punctuation errors in the paragraph. The tone of the paragraph should be formal and suitable for an academic journal. The content of the paragraph may not be changed. Below the improved paragraph, explain the changes you made in bullet points so I can learn how to improve my writing.<br> text: "[your draft paragraph]"|
+| Revising and editing your text | Improve your text (both higher and lower order concerns) based on feedback you received or your own critical evaluation | Ask AI for feedback on your text | General tools, e.g. Copilot, ChatGPT, Claude | You are a scientific editor. Below is a draft section from my literature review paper about [topic]. Provide feedback on the structure and writing style of the text. Present the feedback in a bullet list. For each feedback point, explain what is wrong with my text and give me concrete suggestions on how to improve. <br> text: "[your draft section]"|
+| | | Revise your text with AI as sparring partner | General tools, e.g. Copilot, ChatGPT, Claude | You are a scientific editor. Below is a draft section from my literature review paper about [topic]. I received the following feedback about this section: [feedback]. Give a bulleted list of 5 suggestions how I can implement this feedback in my text. <br> text: "your draft section"|
+| | | Edit your text with AI | General tools, e.g. Copilot, ChatGPT, Claude | You are a scientific editor. Below is a draft paragraph from my literature review paper about [topic]. Rewrite the paragraph to improve the structure of the paragraph: make sure it starts with a clear topic sentence and that the rest of the paragraph elaborates on the topic sentence, with a good flow. Also correct any spelling, grammar and punctuation errors in the paragraph. The tone of the paragraph should be formal and suitable for an academic journal. The content of the paragraph may not be changed. Below the improved paragraph, explain the changes you made in bullet points so I can learn how to improve my writing.<br> text: "[your draft paragraph]"|
 
 ## References
 

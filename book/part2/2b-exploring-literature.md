@@ -76,46 +76,25 @@ Finally, Consensus has an interesting feature that is very useful in the orienta
 Does [topic] affect [variable/outcome]?
 ```
 
-```{admonition} Guided Activity: Explore Academic Literature with AI
+```{admonition} Guided Activity: Explore Academic Literature with Academic AI Tools
 :class: dropdown tip
 
-Use this activity to practice using **academic GenAI tools** for exploring academic literature.
+**Step 1.** Choose one of the following academic AI tools: Consensus, Perplexity Pro, Elicit.
 
-**Step 1: Choose Your Tool**
+**Step 2.** Use the tool of choice to explore the literature with one of these example prompts (and adjust where necessary):
 
-Select one of the following academic AI tools:
+Prompt 1: <br>
+_You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five specific research directions that are worth pursuing. Use your comprehensive database to identify interesting research gaps. Present the suggestions as a numbered list. For each suggestion, give a short description (3-5 sentences) explaining why the topic is relevant and what kinds of research questions could be explored._
 
-- Consensus
-- Perplexity Pro
-- Elicit
+Prompt 2:<br>
+_You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five key research articles related to this topic that I should consult. Present the articles as a numbered list, starting with the most important one. For each article, give a short description (3-5 sentences) explaining why the article is a key publication for this topic._
 
-**Step 2: Prompt the Tool**
-
-Try using one of the following prompts in your tool of choice. You can substitute your own research topic:
-
-Prompt 1:
-
-_You are a researcher in the field of [your field]. 
-You have to write a literature review paper about [general topic].
-Suggest five possible research directions, each with a short description (3-4 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. 
-Present the suggestions as a numbered list._
-
-Prompt 2:
-
-_You are a researcher in the field of [your field]. 
-You have to write a literature review paper about [general topic]. 
-Please suggest 4-5 key research articles, each with a short description (3-4 sentences) explaining why the article is a key article for this topic_
-
-Prompt 3 (for Consensus):
-
+Prompt 3 (for Consensus):<br>
 _Does [topic] affect [variable/outcome]?_
 
-**Step 3: Reflect on the Output**
-
-Answer these three short reflection questions after trying the tool:
-
-- Were the results relevant and trustworthy?  
-- Did the tool provide real, useful sources?  
+**Step 3.** Evaluate the outcome:
+- Are the results relevant and trustworthy?  
+- Does the tool provide real, useful sources?  
 - What do the results from the tool add to your initial exploration?
 
 ```
@@ -124,8 +103,8 @@ Answer these three short reflection questions after trying the tool:
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Find initial academic information | Topic-level search in scholarly databases; VOS-viewer visualisations | Use academic AI tools to provide quick overview of important topics/works within a research field | Academic tools, e.g. Elicit, Consensus, Perplexity (Pro) | You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five specific research directions that are worth pursuing. Use your comprehensive database to identify interesting research gaps. Present the suggestions as a numbered list. For each suggestion, give a short description (3-5 sentences) explaining why the topic is relevant and what kinds of research questions could be explored.<br> 
-| | | | | You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five key research articles related to this topic that I should consult. Present the articles as a numbered list, starting with the most important one. For each article, give a short description (3-5 sentences) explaining why the article is a key publication for this topic.<br>
+| Find initial academic information | Topic-level search in scholarly databases; VOS-viewer visualisations | Use academic AI tools to provide quick overview of important topics/works within a research field | Academic tools, e.g. Elicit, Consensus, Perplexity (Pro) | You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five specific research directions that are worth pursuing. Use your comprehensive database to identify interesting research gaps. Present the suggestions as a numbered list. For each suggestion, give a short description (3-5 sentences) explaining why the topic is relevant and what kinds of research questions could be explored. |
+| | | | | You are an expert in [research field]. I have to write a literature review paper about [general topic]. Suggest five key research articles related to this topic that I should consult. Present the articles as a numbered list, starting with the most important one. For each article, give a short description (3-5 sentences) explaining why the article is a key publication for this topic. |
 | | | | | Does [topic] affect [variable/outcome]? (for Consensus) |
 
 ## References

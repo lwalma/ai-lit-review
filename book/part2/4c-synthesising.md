@@ -50,7 +50,7 @@ After deciding what way you want to group and compare your sources, and what spe
 Watch the video below to learn more about the standard practice of synthesising:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ObK6J7vGnw8?si=OZ29ZpKha2QjicyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-“<a href="https://www.youtube.com/watch?v=ObK6J7vGnw8&" target=_blank>Research Synthesis</a>” by <a href="https://www.youtube.com/@USULibraries" target=_blank>USU Libraries</a> is licensed <a href=https://creativecommons.org/licenses/by-nc/4.0/ target=_blank>CC-BY-NC</a><br><br>
+“<a href="https://www.youtube.com/watch?v=ObK6J7vGnw8&" target=_blank>Research Synthesis</a>” by <a href="https://www.youtube.com/@USULibraries" target=_blank>USU Libraries</a> is licensed <a href=https://creativecommons.org/licenses/by-nc/4.0/ target=_blank>CC BY-NC</a>.<br><br>
 
 If you want to learn more about this standard practice, have a look at **__TULIB PAGE__**
 
@@ -68,7 +68,7 @@ You are an expert reviewer of scientific literature on [topic]. Create a synthes
 [attach or paste notes].
 ```
 
-```{admonition} Guided Activity: Have AI Draft Your Literature Matrix Based on Your Notes, Summaries and Themes
+```{admonition} Guided Activity: Draft a Literature Matrix Based on Your Notes
 :class: dropdown note
 **Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude. Or you could work with NotebookLM.
 
@@ -94,7 +94,7 @@ You are an expert reviewer of scientific literature on [topic]. You are writing 
 [attach or paste notes, matrix or conclusions]
 ```
 
-```{admonition} Guided Activity: Use AI as a Sparring Partner to Check Your Initial Conclusions
+```{admonition} Guided Activity: Review Your Initial Conclusions
 :class: dropdown note
 **Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude. Or you could work with NotebookLM.
 

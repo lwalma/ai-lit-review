@@ -31,7 +31,7 @@ Ask general AI tools for critical questions and counterarguments to strengthen y
 
 There is not just one standard practice when it comes to drafting a text. Some writers prefer to start creating a detailed outline of their text before they start writing, while others prefer to just start writing and (re)structure the text along the way. Some people start with the introduction, while others first write the results or conclusion and save the introduction for last. There is no right or wrong here, as long as you find a strategy that fits you (and as long as you end up with a text that meets the requirements you were given).
 
-If you would like to know more about different writing strategies, different scientific text genres, structuring or writing a scientific text, please consult <a href="https://brightspace-cc.tudelft.nl/course/2901/tu-write" target="_blank">TU Write</a>.
+If you would like to know more about different writing strategies, different scientific text genres, structuring or writing a scientific text, please consult <a href="https://brightspace.tudelft.nl/d2l/le/discovery/view/course/63835" target="_blank">TU Write</a>.
 
 ## AI Assist 1: Creating an Outline
 
@@ -39,7 +39,7 @@ As mentioned, some people prefer to first make an outline, before they start wri
 
 ```{admonition} Example Prompt
 :class: dropdown note 
-You are a [X year] student in [study]. You are writing a literature review paper about [topic]. Your research question is: [research question]. The text has to follow the IMRD structure. Create a detailed structure overview for the literature review paper and define for each section what could be discussed.
+You are an expert in scientific writing. I am writing a literature review paper about [topic]. My research question is: [research question]. The text has to follow the IMRD structure. Create a detailed outline for the literature review paper and define for each section what could be discussed.
 ```
 
 ```{warning}
@@ -58,7 +58,7 @@ Do not blindly follow the AI's suggestions for your outline. Use your own critic
 
 **Step 2.** Ask both tools the same question. You can use the following example prompt (and adjust where necessary):
 
-_You are a [X year] student in [study]. You are writing a literature review paper about [topic]. Your research question is: [research question]. The text has to follow the IMRD structure. Create a detailed structure overview for the literature review paper and define for each section what could be discussed._
+_You are an expert in scientific writing. I am writing a literature review paper about [topic]. My research question is: [research question]. The text has to follow the IMRD structure. Create a detailed outline for the literature review paper and define for each section what could be discussed._
 
 **Step 3.** Compare and evaluate the outcome:
 - What are the main similarities and differences between the two suggested outlines?
@@ -77,7 +77,8 @@ Although the models are improving, LLMs don’t stand out for their reasoning sk
 
 ```{admonition} Example Prompt
 :class: dropdown note 
-You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list.
+You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br>
+Text: "[your draft section]"
 ```
 
 ```{admonition} Guided Activity: Strenghten Your Arguments with GenAI Tools
@@ -89,7 +90,8 @@ You are an expert on [topic]. Below you can find a section from my literature re
 
 **Step 3.** Ask the AI to develop critical questions and counterarguments. You can use the following prompt (and adjust it where necessary):
 
-_You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list._
+_You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br>
+Text: "[your draft section]"_
 
 **Step 4.** Evaluate the outcome:
 - Which critical questions and counterarguments are useful to improve your text?
@@ -103,8 +105,8 @@ Step 5: Improve your text based on the outcome of the previous steps.
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-| 
-| Drafting your text | Write and structure a first version of your text | Use AI to help you make an outline for your text | General tools, e.g. Copilot, ChatGPT | You are a [X year] student in [study]. You are writing a literature review paper about [topic]. Your research question is: [research question]. The text has to follow the IMRD structure. Create a detailed structure overview for the literature review paper and define for each section what could be discussed.|
-| | | Use AI as sparring partner to create stronger arguments | General tools, e.g. Copilot, ChatGPT | You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list.|
+| Drafting your text | Write and structure a first version of your text | Use AI to help you make an outline for your text | General tools, e.g. Copilot, ChatGPT | You are an expert in scientific writing. I am writing a literature review paper about [topic]. My research question is: [research question]. The text has to follow the IMRD structure. Create a detailed outline for the literature review paper and define for each section what could be discussed.|
+| | | Use AI as sparring partner to create stronger arguments | General tools, e.g. Copilot, ChatGPT | You are an expert on [topic]. Below you can find a section from my literature review about [topic]. Formulate critical questions about and possible counterarguments against the arguments in the section. For each critical question or counterargument, explain in a short paragraph (3-4 sentences) how my argument can be strengthened to anticipate this critical question or counterargument. Present the critical questions and counterarguments with explanations in a numbered list. <br> Text: "[your draft section]"|
 
 ## References
 

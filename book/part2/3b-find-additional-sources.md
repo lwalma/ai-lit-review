@@ -69,15 +69,11 @@ Literature mapping tools only have access to open access research articles. Non-
 ```{admonition} Guided Activity: Literature Mapping
 :class: dropdown tip
 
-**Tool Suggestions**: Research Rabbit, Connected Papers, Litmaps
+**Step 1.** Choose one of the following academic AI tools: Research Rabbit, Connected Papers, Litmaps.
 
-**Step 1: Upload a Key Article**
-- Start with a key article in your field—one you already know is useful.
-- Upload the article to the Literature Mapping tool
-- Explore the network of **citing** and **cited** papers the tool suggests.
+**Step 2.** Upload a key article in your field (one you already know) to the literature mapping tool you chose. Explore the network of *citing*, *cited* and *similar* papers the tool suggests.
 
-**Step 2: Reflect on the Results**
-Questions to guide your exploration:
+**Step 3.** Evaluate the outcome:
 - How do the results compare to the results of your keyword search strategy?
 - What additional articles seem promising?
 - Are any of them newer or from different disciplines?
@@ -102,20 +98,16 @@ Always check if the summary that is provided by the AI tool is accurate by readi
 ```{admonition} Guided Activity: Semantic Searching
 :class: dropdown tip
 
-**Tool suggestion**: Elicit
+**Step 1.** Use Elicit (or another academic AI tool that allows semantic searching).
 
-**Step 1: Enter Your Research Question**
-- Enter your research question (not just keywords!) in the semantic search bar.
-- Review the top results returned.
+**Step 2.** Enter your research question (not just keywords!) in the semantic search bar.
 
-**Step 2: Explore the results**
-- Select 1-2 promising articles from Elicit
-- Use Elicit’s follow-up questions or search features to: explore related literature ("search citation trails") or map the paper’s structure (add columns for methods, outcomes, claims).
+**Step 3.** Select 1 or 2 promising articles from Elicit. Use Elicit’s follow-up questions or search features to: explore related literature ("search citation trails") or map the paper’s structure (add columns for methods, outcomes, claims).
 
-**Step 3: Reflect on the Outcomes**:
-How do the results compare to the results of your keyword search strategy?
-Are the additional articles helpful?
-What other things do you notice about your results?
+**Step 4.** Evaluate the outcome:
+- How do the results compare to the results of your keyword search strategy?
+- Are the additional articles helpful?
+- What other things do you notice about your results?
 ```
 
 ## AI Assist 3: Agent-Based Searching
@@ -132,13 +124,11 @@ Even though these tools might be able to find more hidden papers (compared to ot
 ```{admonition} Guided Activity: Agent-Based Searching
 :class: dropdown tip
 
-**Tool suggestion**: Undermind
+**Step 1.** Use Undermind (or another academic AI tool that allows agent-based searching).
 
-**Step 1: Enter Your Research Question**
-- Enter your research question into the chat-based interface.
-- Chat with Undermind to refine your query before searching for literature
+**Step 2.** Enter your research question into the chat-based interface. Chat with Undermind to refine your query before searching for literature.
 
-**Step 2: Reflect on the Results**
+**Step 3.** Evaluate the outcome:
 - How do the results compare to the results of your keyword search strategy?
 - Are the articles high-quality and/or peer-reviewed?
 - Do the summaries seem reliable or overly generic?
@@ -153,11 +143,11 @@ Note: the tools mentioned in this section have been updated until November 2026.
 
 Now that you have learned about several AI-assisted techniques to search for literature, you might be wondering how these techniques can be combined with 'traditional' search techniques such as keyword searching and 'snowballing'. There is not just one correct procedure you should always follow. An example of an effective method could be:
 
-- Start with a semantic search in an academic AI tool such as Elicit
-- Do a keyword search in traditional databases such as Scopus or Dimensions
-- Identify key publications
-- Use one or more key publications to find more papers with a literature mapping tool such as ResearchRabbit
-- Use the reference lists from key publications to find papers that the AI tool could not find ('snowballing')
+- Start with a semantic search in an academic AI tool such as Elicit.
+- Do a keyword search in traditional databases such as Scopus or Dimensions.
+- Identify key publications.
+- Use one or more key publications to find more papers with a literature mapping tool such as ResearchRabbit.
+- Use the reference lists from key publications to find papers that the AI tool could not find ('snowballing').
 
 The advantage of using academic AI tools is that they search in a different way than traditional keyword-based search engines, and can as a result find additional sources you would otherwise might not have found. However, these tools often don't search non-open access publications that are part of traditional databases like Scopus or Dimensions. It is therefore important to never only rely on AI tools when searching for academic literature.
 

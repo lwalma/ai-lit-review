@@ -12,7 +12,7 @@ Experts have suggested different frameworks to create effective prompts. Two of 
 
 <iframe src="https://tudelft.h5p.com/content/1293035986437971857/embed" aria-label="Prompt Engineering version 2026" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-"Prompt Framework and Examples" based on <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips" target="_blank">"Emerging AI Tools for Literature Review: Prompting Tips"</a> by Hong Kong University of Science and Technology and Lee Shau Kee Library.
+"Prompt Framework and Examples" based on "<a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips" target="_blank">Emerging AI Tools for Literature Review: Prompting Tips</a>" by <a href="https://library.hkust.edu.hk/" target="_blank">Hong Kong University of Science and Technology and Lee Shau Kee Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC BY-NC-SA 4.0</a>. <br><br>
 
 If you are uncertain about the prompt that you want to use, you could always ask the GenAI tool to optimise the prompt for you. Another option is to give your prompt and ask the AI what additional information it needs to give an optimised response.
 
@@ -28,7 +28,7 @@ Effective use of GenAI tools is (often) an iterative process: it doesn’t stop 
 
 ## References
 
-- DAIR.AI (2026). _General Tips for Designing Prompts_. Prompt Engineering Guide. <a href="https://www.promptingguide.ai/introduction/tips" target="_blank">https://www.promptingguide.ai/introduction/tips</a>
+- "DAIR.AI" (2026). _General Tips for Designing Prompts_. Prompt Engineering Guide. <a href="https://www.promptingguide.ai/introduction/tips" target="_blank">https://www.promptingguide.ai/introduction/tips</a>
 - Hong Kong University of Science & Technology and Lee Shau Kee Library (2026). _Emerging AI Tools for Literature Review: Prompting Tips_. <a href="https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips" target="_blank">https://libguides.hkust.edu.hk/AI-tools-literature-review/prompting-tips</a>
 - Last, B., & Sprakel, T. (2024). _Chatten met Napoleon: Werken met generatieve AI in het onderwijs_ (2nd edition). Boom.
 - Su, J. (2023, 1 August). _Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=jC4v5AS4RIM" target="_blank">https://www.youtube.com/watch?v=jC4v5AS4RIM</a>
